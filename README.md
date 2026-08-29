@@ -28,7 +28,7 @@ Written by Nico Amoretti. Product boxes are affiliate **placeholders**. They use
    - **date** — `YYYY-MM-DD` in quotes (example: `"2026-08-30"`). Quotes keep the date a string so the build does not treat it as a calendar object.
    - **targetQuery** — the search phrase this article is written for
    - **excerpt** — one or two sentences. This is the meta description and the home-page blurb
-   - **products** — two to four product *types*, each with a name, an Amazon search URL, and an optional note
+   - **products** — one to four products, each with a name, an Amazon URL (`/dp/` or search), and an optional note
 
 4. Write the article under the second `---`. Aim for about 1,000–1,400 words. Be specific. Do not invent reviews, ratings, or traffic numbers.
 5. For each product URL, keep this shape:

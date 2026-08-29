@@ -11,10 +11,10 @@ export function ProductList({ products }: { products: Product[] }) {
         Product types that match this job
       </h2>
       <p className="mt-2 text-sm leading-6 text-ink-muted">
-        These are product <em>types</em>, not reviews. Links are Amazon search
-        URLs. <code className="font-mono text-[0.9em]">tag=YOURTAG</code> is a
-        placeholder — replace it with your own Associates tag before publishing
-        for affiliate credit.
+        These are product recommendations, not reviews. Links are Amazon URLs
+        with <code className="font-mono text-[0.9em]">tag=YOURTAG</code> — a
+        placeholder, not a real Associates tag. Replace it with your own tag
+        before publishing for affiliate credit.
       </p>
       <ul className="mt-4 grid gap-4">
         {products.map((product) => (
