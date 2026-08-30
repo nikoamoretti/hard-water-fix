@@ -6,9 +6,9 @@ targetQuery: "how to remove hard water stains from glass shower doors"
 excerpt: "The white film on a shower door is mineral scale, soap scum, or etching. A 10-second dry-glass test tells you which — and whether vinegar, Bar Keepers Friend, or CLR will actually work."
 products:
   - name: "CLR Calcium, Lime & Rust Remover, 28 oz"
-    url: https://www.amazon.com/dp/B001XUWN7E?tag=YOURTAG
+    url: https://www.amazon.com/dp/B001XUWN7E?tag=hardwaterfi04-20
   - name: "OXO Good Grips All-Purpose Squeegee"
-    url: https://www.amazon.com/dp/B000CCDBRK?tag=YOURTAG
+    url: https://www.amazon.com/dp/B000CCDBRK?tag=hardwaterfi04-20
 ---
 
 The white film on a shower door is usually not “dirty glass.” It is dried calcium and magnesium from hard water, often mixed with soap scum. Some of it comes off in 20 minutes. Some of it is already etched into the pane, and no cleaner will bring that back.

@@ -6,9 +6,9 @@ targetQuery: "how to descale a keurig with vinegar"
 excerpt: "Vinegar will dissolve the calcium in a Keurig. Current manuals want Keurig’s own bottle. Here is when each one is the right call, and the rinse count that actually clears the taste."
 products:
   - name: "Keurig Descaling Solution"
-    url: https://www.amazon.com/dp/B00FOT9W5Q?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00FOT9W5Q?tag=hardwaterfi04-20
   - name: "Urnex Dezcal powder packets"
-    url: https://www.amazon.com/dp/B003PSJ7F8?tag=YOURTAG
+    url: https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20
 ---
 
 Vinegar will dissolve the calcium in a Keurig. That is not the argument. The argument is taste, time, and what the sticker on *your* machine actually says.

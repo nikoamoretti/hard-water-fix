@@ -6,9 +6,9 @@ targetQuery: "how to remove hard water stains from chrome faucet"
 excerpt: "Chrome will take a short acid pass. It will not take an overnight vinegar sock. Timer, rinse, wipe dry."
 products:
   - name: "Bar Keepers Friend Soft Cleanser"
-    url: https://www.amazon.com/dp/B00B28ZYPU?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00B28ZYPU?tag=hardwaterfi04-20
   - name: "CLR Calcium, Lime & Rust Remover"
-    url: https://www.amazon.com/dp/B00009EFEX?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00009EFEX?tag=hardwaterfi04-20
 ---
 
 Chrome will take a short acid pass. It will not take an overnight vinegar sock, a dry sprinkle of cleanser, or a lime remover left to crust on the base. Hard-water spots are calcium and magnesium dried in the fingerprints. Take them off on a timer, rinse, **wipe dry**. The dry is the whole maintenance plan.

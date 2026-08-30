@@ -6,9 +6,9 @@ targetQuery: "how to remove hard water spots from dishes"
 excerpt: "White spots on a plate are usually dried minerals. A cloudy wine glass might already be etched. Vinegar tells you which in about a minute."
 products:
   - name: "Lemi Shine Shine+Dry"
-    url: https://www.amazon.com/dp/B09LRDTGV4?tag=YOURTAG
+    url: https://www.amazon.com/dp/B09LRDTGV4?tag=hardwaterfi04-20
   - name: "Lemi Shine Dish Detergent Booster"
-    url: https://www.amazon.com/dp/B082FPBWW3?tag=YOURTAG
+    url: https://www.amazon.com/dp/B082FPBWW3?tag=hardwaterfi04-20
 ---
 
 White spots on a plate are usually dried calcium and magnesium. A cloudy wine glass might be the same film — or the glass itself may already be etched. Vinegar tells you which in about a minute. If the acid lifts the haze, you can soak the rest of the load and stop it coming back. If vinegar does nothing, stop buying removers. Etching is permanent.

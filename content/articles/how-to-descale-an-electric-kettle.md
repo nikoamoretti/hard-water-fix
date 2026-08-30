@@ -6,9 +6,9 @@ targetQuery: "how to descale an electric kettle"
 excerpt: "The white crust on the heating plate is limescale. Citric acid is the default. Vinegar works. It just smells."
 products:
   - name: "Milliard food-grade citric acid, 1 lb"
-    url: https://www.amazon.com/dp/B00EYFKKZC?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00EYFKKZC?tag=hardwaterfi04-20
   - name: "Urnex Dezcal powder packets"
-    url: https://www.amazon.com/dp/B003PSJ7F8?tag=YOURTAG
+    url: https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20
 ---
 
 The white crust on the heating plate is limescale: calcium carbonate from hard water. A mild acid dissolves it. [Food-grade citric acid] is the bottle to keep in the cupboard — stronger than vinegar on scale, almost no smell, and the same jar already covers a shower head. Distilled white vinegar works. You will taste it in the next two pots of tea unless you rinse like you mean it.
