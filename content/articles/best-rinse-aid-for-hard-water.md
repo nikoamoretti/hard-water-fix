@@ -6,9 +6,9 @@ targetQuery: "best rinse aid for hard water"
 excerpt: "A rinse aid has one job in hard water: stop mineral droplets from drying on the glass. Lemi Shine Shine+Dry is the pick because citric acid is a named mineral-remover, not a buried line."
 products:
   - name: "Lemi Shine Shine+Dry"
-    url: https://www.amazon.com/dp/B09LRDTGV4?tag=YOURTAG
+    url: https://www.amazon.com/dp/B09LRDTGV4?tag=hardwaterfi04-20
   - name: "Finish Jet-Dry 23 oz"
-    url: https://www.amazon.com/dp/B00C9SOB1K?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00C9SOB1K?tag=hardwaterfi04-20
 ---
 
 A rinse aid has one job in hard water: stop mineral droplets from drying on the glass. Most bottles do that with surfactants — they make water sheet instead of bead. [Lemi Shine Shine+Dry] is the pick here because citric acid is the named mineral-remover in the formula, not a buried sequestering line, and because you can pair it with their citric booster in the wash. [Finish Jet-Dry] (23 oz; grocery bottles still say 3-in-1) is the runner-up you can grab at the supermarket. It sheets well. It also contains citric acid. It just leads with surfactant and dye.

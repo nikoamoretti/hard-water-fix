@@ -6,9 +6,9 @@ targetQuery: "how to clean a shower head with vinegar"
 excerpt: "A weak shower is usually scale in the nozzles. Vinegar in a bag fixes chrome. Specialty finishes need a shorter clock, and two failed soaks means replace the head."
 products:
   - name: "Milliard food-grade citric acid, 1 lb"
-    url: https://www.amazon.com/dp/B00EYFKKZC?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00EYFKKZC?tag=hardwaterfi04-20
   - name: "AquaDance chrome 6-setting shower head"
-    url: https://www.amazon.com/dp/B01H2DFZF2?tag=YOURTAG
+    url: https://www.amazon.com/dp/B01H2DFZF2?tag=hardwaterfi04-20
 ---
 
 A weak shower is usually not a dying pipe. It is calcium and magnesium dried inside the nozzles. Distilled white vinegar (about 5% acetic acid) dissolves that scale. The bag-and-rubber-band method does it without a wrench.

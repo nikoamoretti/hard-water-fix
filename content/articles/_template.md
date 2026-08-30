@@ -6,10 +6,10 @@ targetQuery: hard water stains on faucet
 excerpt: A one-sentence summary of the problem and the fix. This becomes the meta description.
 products:
   - name: Distilled white vinegar
-    url: https://www.amazon.com/s?k=distilled+white+vinegar&tag=YOURTAG
+    url: https://www.amazon.com/s?k=distilled+white+vinegar&tag=hardwaterfi04-20
     note: Cheap first pass on chrome and glass. Do not leave acid on natural stone.
   - name: CLR Calcium, Lime & Rust Remover
-    url: https://www.amazon.com/dp/B00009EFEX?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00009EFEX?tag=hardwaterfi04-20
     note: Stronger mineral remover. Follow the two-minute dwell time. Never mix with bleach.
 ---
 

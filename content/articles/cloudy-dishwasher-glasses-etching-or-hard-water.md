@@ -6,9 +6,9 @@ targetQuery: "cloudy dishwasher glasses etching or hard water"
 excerpt: "Cloudy glasses are either mineral film or etching. Vinegar tells you which in a minute. If it is etch, skip the bottles."
 products:
   - name: "Lemi Shine Dish Detergent Booster"
-    url: https://www.amazon.com/dp/B082FPBWW3?tag=YOURTAG
+    url: https://www.amazon.com/dp/B082FPBWW3?tag=hardwaterfi04-20
   - name: "Finish Jet-Dry"
-    url: https://www.amazon.com/dp/B00C9SOB1K?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00C9SOB1K?tag=hardwaterfi04-20
 ---
 
 Cloudy glasses out of the dishwasher are two problems with the same face. One is a mineral film you can wipe off with vinegar. The other is etching: the glass surface itself is pitted, and no cleaner, polish, or “restore” bottle brings it back.

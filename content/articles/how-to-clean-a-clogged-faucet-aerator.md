@@ -6,9 +6,9 @@ targetQuery: "how to clean a clogged faucet aerator"
 excerpt: "A tap that used to roar and now dribbles is usually the aerator, packed with scale. Unscrew it, soak it, or replace the insert."
 products:
   - name: "CLR Calcium, Lime & Rust Remover"
-    url: https://www.amazon.com/dp/B00009EFEX?tag=YOURTAG
+    url: https://www.amazon.com/dp/B00009EFEX?tag=hardwaterfi04-20
   - name: "Hibbent 4-pack aerator kit"
-    url: https://www.amazon.com/dp/B09ZNRK5RG?tag=YOURTAG
+    url: https://www.amazon.com/dp/B09ZNRK5RG?tag=hardwaterfi04-20
 ---
 
 A kitchen tap that used to roar and now dribbles is usually not the valve. It is the aerator: a small screen and a washer screwed into the spout, packed with calcium, magnesium, and grit. Unscrew it, soak it, brush the mesh, put it back in order. If the screen is torn or the plastic is shot, replace the whole insert. That is the job.
