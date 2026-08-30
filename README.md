@@ -61,10 +61,12 @@ npm start
 
 ## Publish
 
-Connect this GitHub repo to [Vercel](https://vercel.com) (or another Next.js host). Set the environment variable:
+Connect this GitHub repo to [Vercel](https://vercel.com) (or another Next.js host). Optional environment variable:
 
-- `NEXT_PUBLIC_SITE_URL` — your live domain, including `https://`, no trailing slash  
-  Example: `https://www.example.com`
+- `NEXT_PUBLIC_SITE_URL` — live origin, including `https://`, no trailing slash  
+  Example: `https://hard-water-fix.vercel.app`
+
+If that variable is unset, production / Vercel builds use `https://hard-water-fix.vercel.app` (or Vercel’s `VERCEL_PROJECT_PRODUCTION_URL`) so `sitemap.xml` and `robots.txt` never emit `http://localhost:3000` URLs. Local `next dev` still defaults to localhost.
 
 Each push rebuilds the site. Adding a markdown file and pushing it is enough to publish the next daily post.
 
