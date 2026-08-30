@@ -68,7 +68,7 @@ export default function HomePage() {
       </section>
 
       <p className="mt-10 max-w-2xl text-sm leading-6 text-ink-muted">
-        Product links use Amazon search URLs with a placeholder Associates tag.
+        Product links are Amazon Associates URLs (tag hardwaterfi04-20).
         They are not reviews and they are not paid placements.{" "}
         <Link href="/disclosure" className="underline">
           Disclosure
