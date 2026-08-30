@@ -3,7 +3,7 @@ import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Affiliate disclosure",
-  description: `FTC affiliate disclosure for ${site.name}, including placeholder Amazon Associates tags.`,
+  description: `FTC affiliate disclosure for ${site.name}. Amazon product links use Associates tag hardwaterfi04-20.`,
   alternates: { canonical: "/disclosure" },
   openGraph: {
     title: `Affiliate disclosure — ${site.name}`,
@@ -31,17 +31,9 @@ export default function DisclosurePage() {
         </p>
         <h2>Amazon links on this site</h2>
         <p>
-          Product boxes use Amazon search URLs in this shape:
-        </p>
-        <p>
-          <code>https://www.amazon.com/s?k=QUERY&amp;tag=YOURTAG</code>
-        </p>
-        <p>
-          <strong>YOURTAG is a placeholder.</strong> It is not a real Amazon
-          Associates tracking ID. Those links will not credit an Associates
-          account and will not pay a commission until someone who owns this
-          site replaces <code>YOURTAG</code> with their own tag after joining
-          Amazon Associates.
+          Product boxes use Amazon URLs with Associates tracking ID{" "}
+          <code>hardwaterfi04-20</code>. As an Amazon Associate, {site.name}{" "}
+          earns from qualifying purchases.
         </p>
         <p>
           Articles recommend product <em>types</em> (a calcium-lime-rust

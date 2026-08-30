@@ -4,7 +4,7 @@ A small daily site about hard-water stains and limescale: shower doors, cloudy d
 
 There is no login and no admin panel. Tomorrow’s article is a markdown file. After you add the file, rebuild (or let the host rebuild) and the new post shows up on the home page, in the sitemap, and at its own URL.
 
-Written by Nico Amoretti. Product boxes are affiliate **placeholders**. They use Amazon search links with `tag=YOURTAG`. That is **not** a real Associates tag. Do not invent one. Replace `YOURTAG` only after you have your own Amazon Associates account.
+Written by Nico Amoretti. Product boxes are Amazon Associates links using tracking ID `hardwaterfi04-20`. As an Amazon Associate, the site may earn from qualifying purchases.
 
 ## Pages
 
@@ -33,9 +33,9 @@ Written by Nico Amoretti. Product boxes are affiliate **placeholders**. They use
 4. Write the article under the second `---`. Aim for about 1,000–1,400 words. Be specific. Do not invent reviews, ratings, or traffic numbers.
 5. For each product URL, keep this shape:
 
-   `https://www.amazon.com/s?k=WHAT+PEOPLE+WOULD+SEARCH&tag=YOURTAG`
+   `https://www.amazon.com/s?k=WHAT+PEOPLE+WOULD+SEARCH&tag=hardwaterfi04-20`
 
-   After you join Amazon Associates, replace `YOURTAG` with your real tracking ID — in every article file that still has the placeholder. Leave the rest of the URL alone.
+   Use Associates tag `hardwaterfi04-20` on every product URL. Leave the rest of the URL alone.
 6. Save the file.
 7. Rebuild the site (see below). Refresh the home page. The newest **date** appears first.
 
@@ -73,7 +73,7 @@ Each push rebuilds the site. Adding a markdown file and pushing it is enough to 
 - Practical and specific. Include dwell times, dilutions, and “do not mix” warnings when they matter.
 - No fake reviews. Recommend product *types* (vinegar, CLR, rinse aid, shower filter, descaling solution, microfiber), not a made-up ranking.
 - Affiliate disclosure stays on every article automatically. Do not delete it from the layout.
-- Keep `tag=YOURTAG` until you have a real Associates tag. Never invent a tag.
+- Product Amazon URLs use Associates tag `hardwaterfi04-20`.
 
 ## Stack
 

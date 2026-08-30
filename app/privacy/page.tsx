@@ -37,9 +37,9 @@ export default function PrivacyPage() {
           privacy policy for how that works.
         </p>
         <p>
-          Product links currently include the placeholder Associates tag{" "}
-          <code>YOURTAG</code>. Until that is replaced with a real tag, Amazon
-          will not credit an Associates account from those URLs.
+          Product links use Amazon Associates tag{" "}
+          <code>hardwaterfi04-20</code>. If you click one, Amazon may
+          attribute a later purchase to this site.
         </p>
         <h2>Analytics</h2>
         <p>

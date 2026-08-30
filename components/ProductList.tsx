@@ -1,5 +1,4 @@
 import type { Product } from "@/lib/articles";
-import { isPlaceholderAffiliateUrl } from "@/lib/articles";
 
 export function ProductList({ products }: { products: Product[] }) {
   return (
@@ -12,9 +11,9 @@ export function ProductList({ products }: { products: Product[] }) {
       </h2>
       <p className="mt-2 text-sm leading-6 text-ink-muted">
         These are product recommendations, not reviews. Links are Amazon URLs
-        with <code className="font-mono text-[0.9em]">tag=YOURTAG</code> — a
-        placeholder, not a real Associates tag. Replace it with your own tag
-        before publishing for affiliate credit.
+        with Associates tag{" "}
+        <code className="font-mono text-[0.9em]">hardwaterfi04-20</code>. As an
+        Amazon Associate, Hard Water Fix may earn from qualifying purchases.
       </p>
       <ul className="mt-4 grid gap-4">
         {products.map((product) => (
@@ -27,12 +26,6 @@ export function ProductList({ products }: { products: Product[] }) {
             >
               {product.name}
             </a>
-            {isPlaceholderAffiliateUrl(product.url) ? (
-              <p className="mt-1 font-mono text-xs text-ink-muted">
-                Placeholder affiliate URL — tag=YOURTAG is not a real associate
-                tag.
-              </p>
-            ) : null}
             {product.note ? (
               <p className="mt-1 text-sm leading-6 text-ink">{product.note}</p>
             ) : null}

@@ -35,10 +35,9 @@ export default function AboutPage() {
         <p>
           When an article names a product type (CLR, rinse aid, a shower
           filter, a descaling solution), that is because the chemistry or the
-          manufacturer instructions point there. Links go to Amazon search
-          pages so you can pick a current listing. They currently use the
-          placeholder tag <code>YOURTAG</code>. That is not a real Associates
-          tag. See the{" "}
+          manufacturer instructions point there. Links go to Amazon so you can
+          pick a current listing. They use Associates tag{" "}
+          <code>hardwaterfi04-20</code>. See the{" "}
           <Link href="/disclosure">affiliate disclosure</Link>.
         </p>
         <p>
