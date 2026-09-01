@@ -7,11 +7,11 @@ excerpt: "Push water off the glass before it dries. A 30-second squeegee habit b
 products:
   - name: "OXO Good Grips All-Purpose Squeegee"
     url: https://www.amazon.com/dp/B000CCDBRK?tag=hardwaterfi04-20
-  - name: "Rain-X Shower Door Water Repellent, 16 oz"
-    url: https://www.amazon.com/dp/B01DXKZ7EM?tag=hardwaterfi04-20
+  - name: "Rain-X Shower Door Water Repellent, 16 oz (2-pack)"
+    url: https://www.amazon.com/dp/B0D6X4PSZ3?tag=hardwaterfi04-20
 ---
 
-Hard-water stains are not a mystery film. They are calcium and magnesium left behind when shower water dries on glass (USGS). Push the water off before it dries and there is nothing to stain. That is a [squeegee](https://www.amazon.com/dp/B000CCDBRK?tag=hardwaterfi04-20) after the last shower of the day, about thirty seconds, then a weekly vinegar wipe. A [Rain-X Shower Door](https://www.amazon.com/dp/B01DXKZ7EM?tag=hardwaterfi04-20) coating is backup, not a substitute. The brand’s own page says it keeps glass looking clean **for weeks**. It does not say years.
+Hard-water stains are not a mystery film. They are calcium and magnesium left behind when shower water dries on glass (USGS). Push the water off before it dries and there is nothing to stain. That is a [squeegee](https://www.amazon.com/dp/B000CCDBRK?tag=hardwaterfi04-20) after the last shower of the day, about thirty seconds, then a weekly vinegar wipe. A [Rain-X Shower Door](https://www.amazon.com/dp/B0D6X4PSZ3?tag=hardwaterfi04-20) coating is backup, not a substitute. The brand’s own page says it keeps glass looking clean **for weeks**. It does not say years.
 
 If the door is already chalky, stop here and clean it first. Prevention on top of scale just seals in haze. The removal how-to is the [companion piece on cleaning glass shower doors](/articles/how-to-remove-hard-water-stains-from-glass-shower-doors).
 
@@ -44,7 +44,7 @@ Factory-coated or “easy-clean” glass: skip the acid. Mild detergent and the 
 
 ## Rain-X if you want water to bead
 
-Once the glass is actually clean and dry, [Rain-X Shower Door Water Repellent](https://www.amazon.com/dp/B01DXKZ7EM?tag=hardwaterfi04-20) is the bottle for this query. It is a shower formula, **glass only**. Do not grab the blue automotive Original and wipe it on a stall. ITW’s shower page: water beads and slides off; regular use helps prevent hard-water stains, soap scum, and grime; the coating **lasts for weeks**. That is the claim we will repeat. Third-party “3 to 6 months” posts are not the label.
+Once the glass is actually clean and dry, [Rain-X Shower Door Water Repellent](https://www.amazon.com/dp/B0D6X4PSZ3?tag=hardwaterfi04-20) is the bottle for this query. It is a shower formula, **glass only**. Do not grab the blue automotive Original and wipe it on a stall. ITW’s shower page: water beads and slides off; regular use helps prevent hard-water stains, soap scum, and grime; the coating **lasts for weeks**. That is the claim we will repeat. Third-party “3 to 6 months” posts are not the label.
 
 Official steps (16 oz, US item 630023):
 
