@@ -6,7 +6,7 @@ targetQuery: "vinegar vs CLR for hard water stains"
 excerpt: "Use vinegar on a film you can barely feel. Use CLR on crust you can scrape with a fingernail. That is the whole comparison."
 products:
   - name: "CLR Calcium, Lime & Rust Remover"
-    url: https://www.amazon.com/dp/B00009EFEX?tag=hardwaterfi04-20
+    url: https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20
 ---
 
 Use vinegar on a film you can barely feel. Use [CLR Calcium, Lime & Rust Remover] on crust you can scrape with a fingernail. That is the whole comparison. The rest is when that rule breaks, and the two ways people wreck a bathroom trying to skip it.
