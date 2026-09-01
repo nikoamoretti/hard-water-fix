@@ -46,6 +46,7 @@ test("coffee descale articles have no 3P Dezcal Amazon ASIN", () => {
     "how-to-descale-a-keurig-with-vinegar",
     "vinegar-vs-descaling-solution-coffee-maker",
     "how-to-descale-ninja-coffee-maker",
+    "how-to-descale-cuisinart-coffee-maker",
   ]) {
     const article = getArticle(slug);
     assert.ok(article, `expected ${slug} to parse`);
@@ -85,4 +86,17 @@ test("Instant Pot article is published without Amazon products", () => {
   assert.doesNotMatch(article.content, /amazon\.com/i);
   assert.doesNotMatch(article.content, /YOURTAG/);
   assert.doesNotMatch(article.content, /B00EYFKKZC/);
+});
+
+test("Cuisinart descale article parses with no amazon.com href", () => {
+  const article = getArticle("how-to-descale-cuisinart-coffee-maker");
+  assert.ok(article, "expected how-to-descale-cuisinart-coffee-maker to parse");
+  assert.equal(article.slug, "how-to-descale-cuisinart-coffee-maker");
+  assert.equal(article.date, "2026-08-31");
+  assert.deepEqual(article.products, []);
+  assert.match(article.content, /Dezcal/);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
+  assert.doesNotMatch(article.content, /href=["'][^"']*amazon\.com/i);
+  assert.doesNotMatch(article.content, /YOURTAG|AFF_|B003PSJ7F8|B0GQ51XV9R/);
+  assert.doesNotMatch(JSON.stringify(article.products), /amazon\.com|YOURTAG|AFF_|B003PSJ7F8|B0GQ51XV9R/i);
 });
