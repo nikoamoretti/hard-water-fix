@@ -5,13 +5,11 @@ date: "2026-08-29"
 targetQuery: "how to remove rust stains from toilet hard water"
 excerpt: "Orange or brown in the bowl is iron oxide, not the white calcium ring. Iron Out reduces it. Bar Keepers Friend powder is the oxalic backup."
 products:
-  - name: "Iron OUT Rust Stain Remover Powder, 28 oz"
-    url: https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20
   - name: "Bar Keepers Friend Powdered Cleanser, 12 oz (2-pack)"
     url: https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20
 ---
 
-Look at the color. A **white or tan waterline ring** is calcium carbonate — hardness as USGS defines it (calcium and magnesium). That job is [how to remove hard water stains from a toilet bowl](/articles/how-to-remove-hard-water-stains-from-toilet-bowl): drop the water, HCl gel, wet pumice. An **orange or brown** stain is iron oxide. Hardness can ride along, but the color is iron in the water or a rusting part. [Iron Out](https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20) is the sodium hydrosulfite reducer built for that stain. [Bar Keepers Friend](https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20) powder is the oxalic backup you may already own.
+Look at the color. A **white or tan waterline ring** is calcium carbonate — hardness as USGS defines it (calcium and magnesium). That job is [how to remove hard water stains from a toilet bowl](/articles/how-to-remove-hard-water-stains-from-toilet-bowl): drop the water, HCl gel, wet pumice. An **orange or brown** stain is iron oxide. Hardness can ride along, but the color is iron in the water or a rusting part. Iron Out is the sodium hydrosulfite reducer built for that stain. [Bar Keepers Friend](https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20) powder is the oxalic backup you may already own.
 
 **This page uses affiliate links.** As an Amazon Associate, I earn from qualifying purchases. We do not invent reviews or lab scores.
 
@@ -26,13 +24,13 @@ Two common sources:
 
 ## 1. Iron Out on the orange stain
 
-[Iron Out](https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20) powder is a **reducer**, not HCl bowl gel and not oxalic powder. Summit’s SDS lists sodium hydrosulfite (also called sodium dithionite) as the rust-reducing ingredient. Toilets are a labeled use. Porcelain is on the retailer label reprint. It is **not** a bleach gel.
+Iron Out powder is a **reducer**, not HCl bowl gel and not oxalic powder. Summit’s SDS lists sodium hydrosulfite (also called sodium dithionite) as the rust-reducing ingredient. Toilets are a labeled use. Porcelain is on the retailer label reprint. It is **not** a bleach gel.
 
 Follow **your** label. Summit’s published bowl method:
 
 1. Open a window or run the fan. Rubber gloves. Summit and the label reprint: vapors after mixing with water; skip it if you have respiratory problems or sulfite sensitivity. Do not mix with other chemicals.
 2. Remove other cleaners or deodorant from the bowl or tank. Flush. If it still smells like bleach, rinse with plain water until it doesn’t. Washington State DOH lists rust removers among the acids that make chlorine gas with bleach.
-3. Add **½ cup** of [Iron Out](https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20) to the water in the bowl.
+3. Add **½ cup** of Iron Out to the water in the bowl.
 4. Scrub the stained area with a brush.
 5. Let it stand **until the stains are gone**. Flush.
 
@@ -54,7 +52,7 @@ This is not a pumice substitute for the white mineral ring — pumice is the #15
 
 ## 3. Mixed scale and rust: CLR’s two minutes, not the hero
 
-Orange iron sitting on a **white or tan ridge** is mixed scale plus rust. That is the only time CLR belongs here, and it is still **not** the hero. CLR Calcium, Lime & Rust Remover is lactic and gluconic acid. Label: 50/50 with warm water, **no longer than 2 minutes**, cold rinse. Porcelain is listed. Do not mix with bleach. Same 2-minute cap as [vinegar vs CLR](/articles/vinegar-vs-clr-for-hard-water-stains) and [BKF vs CLR](/articles/bar-keepers-friend-vs-clr). It is **not** the HCl bowl-gel soak from the white-ring page. Straight orange: [Iron Out](https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20) first.
+Orange iron sitting on a **white or tan ridge** is mixed scale plus rust. That is the only time CLR belongs here, and it is still **not** the hero. CLR Calcium, Lime & Rust Remover is lactic and gluconic acid. Label: 50/50 with warm water, **no longer than 2 minutes**, cold rinse. Porcelain is listed. Do not mix with bleach. Same 2-minute cap as [vinegar vs CLR](/articles/vinegar-vs-clr-for-hard-water-stains) and [BKF vs CLR](/articles/bar-keepers-friend-vs-clr). It is **not** the HCl bowl-gel soak from the white-ring page. Straight orange: Iron Out first.
 
 ## If it comes back: water or plumbing, not another gel
 
@@ -66,7 +64,7 @@ A stain that returns is still iron in the water, or a part that is still rusting
 
 - Do not treat orange/brown as the white/tan calcium ring, or make pumice or HCl gel the rust hero.
 - Do not use bleach as a rust remover. Culligan: it can set and darken iron stains.
-- Do not mix [Iron Out](https://www.amazon.com/dp/B00JOLNSFA?tag=hardwaterfi04-20), [Bar Keepers Friend](https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20), CLR, or any acid with bleach.
+- Do not mix Iron Out, [Bar Keepers Friend](https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20), CLR, or any acid with bleach.
 - Do not let BKF powder dry on the glaze. One minute, then rinse.
 - Do not leave CLR past two minutes, or enclose mixed Iron Out powder in a spray bottle.
 - Do not buy a third bowl gel because the orange came back. That is water or a rusty part.
