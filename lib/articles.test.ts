@@ -271,3 +271,30 @@ test("shower tile article may only use B0C4G2BJKX as an Amazon ASIN", () => {
   assert.doesNotMatch(haystack, /B00009EFEX|Lime-A-Way|YOURTAG|\{\{AFF_/);
   assert.doesNotMatch(haystack, /brilliantbath\.com/i);
 });
+
+test("porcelain sink article may only use B0C4G2BJKX and B07N4KGV2Q as Amazon ASINs", () => {
+  const article = getArticle("how-to-remove-hard-water-stains-from-porcelain-sink");
+  assert.ok(article, "expected how-to-remove-hard-water-stains-from-porcelain-sink to parse");
+  assert.equal(article.slug, "how-to-remove-hard-water-stains-from-porcelain-sink");
+  assert.equal(article.date, "2026-08-31");
+  assert.equal(article.products.length, 2);
+  assert.equal(article.products[0]?.name, "CLR Calcium, Lime & Rust Remover, 80 oz");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20",
+  );
+  assert.equal(article.products[1]?.name, "Iron Out All-Purpose Powder, 2-pack");
+  assert.equal(
+    article.products[1]?.url,
+    "https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)].sort(), ["B07N4KGV2Q", "B0C4G2BJKX"]);
+  assert.doesNotMatch(haystack, /B00B28ZYPU|B00JOLNSFA|B00009EFEX|YOURTAG|\{\{AFF_/);
+});
