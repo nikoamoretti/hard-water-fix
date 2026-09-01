@@ -173,3 +173,30 @@ test("steam iron descale article may only use B07VD4KN28 as an Amazon ASIN", () 
     /XD9060E0|XD9070E0|ZR850001|YOURTAG|\{\{AFF_|B00EYFKKZC|B003PSJ7F8|B0GQ51XV9R/,
   );
 });
+
+test("etched shower glass article may only use B007460F7Q and B0D6X4PSZ3 as Amazon ASINs", () => {
+  const article = getArticle("how-to-restore-etched-shower-glass");
+  assert.ok(article, "expected how-to-restore-etched-shower-glass to parse");
+  assert.equal(article.slug, "how-to-restore-etched-shower-glass");
+  assert.equal(article.date, "2026-08-31");
+  assert.equal(article.products.length, 2);
+  assert.equal(article.products[0]?.name, "3M Glass Polishing Compound 60150");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B007460F7Q?tag=hardwaterfi04-20",
+  );
+  assert.equal(article.products[1]?.name, "Rain-X Shower Door Water Repellent, 16 oz (2-pack)");
+  assert.equal(
+    article.products[1]?.url,
+    "https://www.amazon.com/dp/B0D6X4PSZ3?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)].sort(), ["B007460F7Q", "B0D6X4PSZ3"]);
+  assert.doesNotMatch(haystack, /B01DXKZ7EM|YOURTAG|\{\{AFF_|nufinish\.com/i);
+});
