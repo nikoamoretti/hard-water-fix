@@ -100,3 +100,24 @@ test("Cuisinart descale article parses with no amazon.com href", () => {
   assert.doesNotMatch(article.content, /YOURTAG|AFF_|B003PSJ7F8|B0GQ51XV9R/);
   assert.doesNotMatch(JSON.stringify(article.products), /amazon\.com|YOURTAG|AFF_|B003PSJ7F8|B0GQ51XV9R/i);
 });
+
+test("baking soda vs vinegar article may only use B0C4G2BJKX as an Amazon ASIN", () => {
+  const article = getArticle("baking-soda-vs-vinegar-hard-water-stains");
+  assert.ok(article, "expected baking-soda-vs-vinegar-hard-water-stains to parse");
+  assert.equal(article.slug, "baking-soda-vs-vinegar-hard-water-stains");
+  assert.equal(article.products.length, 1);
+  assert.equal(article.products[0]?.name, "CLR Calcium, Lime & Rust Remover, 80 oz");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)], ["B0C4G2BJKX"]);
+  assert.doesNotMatch(haystack, /B00009EFEX|B00EYFKKZC|B003PSJ7F8|YOURTAG|\{\{AFF_/);
+});
