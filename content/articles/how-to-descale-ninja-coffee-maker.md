@@ -5,8 +5,6 @@ date: "2026-08-29"
 targetQuery: "how to descale ninja coffee maker"
 excerpt: "The CLEAN light stays on because you ran water, skipped a side, or never started the flush on the machine’s clock. DualBrew: a water-only CLEAN does not descale."
 products:
-  - name: "Urnex Dezcal Coffee and Espresso Descaler, 4-use powder packets"
-    url: https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20
   - name: "Ninja Luxe Café Espresso Descaling Powder, 4-pack (XSKDSCLSOL4PK)"
     url: https://www.amazon.com/dp/B0DV9XWNZW?tag=hardwaterfi04-20
 ---
@@ -28,7 +26,7 @@ DualBrew, DualBrew Pro, Specialty CM401, and Hot & Iced (CM360 / CM371) still pr
 | Mix | When the sheet allows it | What you are buying |
 | --- | --- | --- |
 | Distilled white vinegar, grocery | *Your* PDF lists the 16 oz Travel Mug fill | Pantry. Ninja: **only white vinegar**. Not apple cider. |
-| Coffeemaker descaling solution | DualBrew / Specialty / Hot & Iced: “specifically formulated for coffeemaker cleaning,” follow the package, fill to Full | [Urnex Dezcal](https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20) is citric when a generic descaler is allowed. Not Keurig’s bottle. Not Ninja’s bottle. |
+| Coffeemaker descaling solution | DualBrew / Specialty / Hot & Iced: “specifically formulated for coffeemaker cleaning,” follow the package, fill to Full | Urnex Dezcal is citric when a generic descaler is allowed. Not Keurig’s bottle. Not Ninja’s bottle. |
 | Ninja’s own | When *your* booklet names it | [Ninja descaling solution](https://www.amazon.com/dp/B0DV9XWNZW?tag=hardwaterfi04-20) if a live listing exists. DualBrew PDFs we fetched do **not** name that SKU. |
 
 The acid comparison is already on [vinegar vs descaling solution](/articles/vinegar-vs-descaling-solution-coffee-maker) and [citric vs vinegar](/articles/citric-acid-vs-vinegar-for-limescale). This page is the Ninja clock.
@@ -46,7 +44,7 @@ First orange light: the mode you use most. Grounds: sliding lid closed. Pods: Ni
 Quoted from the DualBrew / DualBrew Pro owner’s guides:
 
 1. Empty carafe under the brew basket.
-2. [Urnex Dezcal](https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20) or another coffeemaker descaler to the Full line, per the package. **OR** Travel Mug line (**16 oz**) white vinegar, then water to Full. **Only use white vinegar.**
+2. Urnex Dezcal or another coffeemaker descaler to the Full line, per the package. **OR** Travel Mug line (**16 oz**) white vinegar, then water to Full. **Only use white vinegar.**
 3. Press **CLEAN**, then **START BREW** to confirm. About **75 minutes**. Small shots, long pauses. Do not pull the carafe. Cancel (Power or CLEAN once) and the sheet says the brewer **will not be properly descaled** — rinse what ran, then start the mix cycle again.
 4. Beep, clock shows **End**, orange indicator off.
 5. Dump the carafe. Wash the reservoir with warm soapy water.
@@ -91,7 +89,7 @@ No. DualBrew CFP200 / DualBrew Pro CFP300: a water-only clean cycle will not des
 Expected. Each DualBrew mode you use needs its own cycle. CLn is the current path.
 
 **Vinegar, Dezcal, or Ninja’s bottle?**
-If *your* ounces are in the PDF, grocery white vinegar is the manual path. [Dezcal](https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20) when the booklet allows a coffeemaker descaling solution. [Ninja descaling solution](https://www.amazon.com/dp/B0DV9XWNZW?tag=hardwaterfi04-20) when *your* sheet names Ninja’s own (espresso packets are that branded SKU). DualBrew sheets we fetched do not name it.
+If *your* ounces are in the PDF, grocery white vinegar is the manual path. Dezcal when the booklet allows a coffeemaker descaling solution. [Ninja descaling solution](https://www.amazon.com/dp/B0DV9XWNZW?tag=hardwaterfi04-20) when *your* sheet names Ninja’s own (espresso packets are that branded SKU). DualBrew sheets we fetched do not name it.
 
 **Does vinegar void the Ninja warranty?**
 We will not invent that sentence. DualBrew, Specialty, and Hot & Iced guides we fetched still list white vinegar. In-warranty: follow the booklet in the box.

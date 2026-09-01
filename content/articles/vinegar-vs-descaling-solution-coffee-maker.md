@@ -5,8 +5,6 @@ date: "2026-08-29"
 targetQuery: "vinegar vs descaling solution coffee maker"
 excerpt: "Both acids dissolve scale. The split is what your manual allows. Dezcal when the sheet says a citric descaler; Keurig’s bottle when it names it."
 products:
-  - name: "Urnex Dezcal Descaling Powder"
-    url: https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20
   - name: "Keurig Descaling Solution"
     url: https://www.amazon.com/dp/B00FOT9W5Q?tag=hardwaterfi04-20
 ---
@@ -57,7 +55,7 @@ Buy the house bottle when the sheet names only that bottle.
 
 ## One citric powder that covers drip and espresso
 
-[Urnex Dezcal](https://www.amazon.com/dp/B003PSJ7F8?tag=hardwaterfi04-20) is the cafe descaler, not Keurig's official bottle. Official Urnex: citric-acid based (ingredients sheet: citric as the main cleaning agent, plus a little sulfamic), odor-free, and it "rinses away thoroughly, unlike vinegar." Consumer packets and a liquid. No NSF claim on the pages we fetched. Do not invent one.
+Urnex Dezcal is the cafe descaler, not Keurig's official bottle. Official Urnex: citric-acid based (ingredients sheet: citric as the main cleaning agent, plus a little sulfamic), odor-free, and it "rinses away thoroughly, unlike vinegar." Consumer packets and a liquid. No NSF claim on the pages we fetched. Do not invent one.
 
 Consumer powder (Urnex home-packet sheet): dissolve **one 28 g packet in 32 oz (1 L) of lukewarm water**, brew the tank through, then **three** full tanks of clean water. Liquid: **1 oz per liter** of tank capacity. For espresso, Urnex says follow the machine's own descale program.
 
