@@ -121,3 +121,30 @@ test("baking soda vs vinegar article may only use B0C4G2BJKX as an Amazon ASIN",
   assert.deepEqual([...new Set(amazonAsins)], ["B0C4G2BJKX"]);
   assert.doesNotMatch(haystack, /B00009EFEX|B00EYFKKZC|B003PSJ7F8|YOURTAG|\{\{AFF_/);
 });
+
+test("clothes stain article may only use B07N4KGV2Q and B00CNJREKK as Amazon ASINs", () => {
+  const article = getArticle("how-to-remove-hard-water-stains-from-clothes");
+  assert.ok(article, "expected how-to-remove-hard-water-stains-from-clothes to parse");
+  assert.equal(article.slug, "how-to-remove-hard-water-stains-from-clothes");
+  assert.equal(article.date, "2026-08-31");
+  assert.equal(article.products.length, 2);
+  assert.equal(article.products[0]?.name, "Iron Out All-Purpose Powder, 2-pack (IO65N)");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20",
+  );
+  assert.equal(article.products[1]?.name, "Calgon Water Softener Liquid, 32 oz");
+  assert.equal(
+    article.products[1]?.url,
+    "https://www.amazon.com/dp/B00CNJREKK?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)].sort(), ["B00CNJREKK", "B07N4KGV2Q"]);
+  assert.doesNotMatch(haystack, /B00JOLNSFA|B016TQJGDK|B000VCFAXO|YOURTAG|\{\{AFF_/);
+});
