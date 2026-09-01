@@ -174,6 +174,32 @@ test("steam iron descale article may only use B07VD4KN28 as an Amazon ASIN", () 
   );
 });
 
+test("prevent shower door stains article may only use B000CCDBRK and B0D6X4PSZ3 as Amazon ASINs", () => {
+  const article = getArticle("how-to-prevent-hard-water-stains-on-shower-doors");
+  assert.ok(article, "expected how-to-prevent-hard-water-stains-on-shower-doors to parse");
+  assert.equal(article.slug, "how-to-prevent-hard-water-stains-on-shower-doors");
+  assert.equal(article.products.length, 2);
+  assert.equal(article.products[0]?.name, "OXO Good Grips All-Purpose Squeegee");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B000CCDBRK?tag=hardwaterfi04-20",
+  );
+  assert.equal(article.products[1]?.name, "Rain-X Shower Door Water Repellent, 16 oz (2-pack)");
+  assert.equal(
+    article.products[1]?.url,
+    "https://www.amazon.com/dp/B0D6X4PSZ3?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)].sort(), ["B000CCDBRK", "B0D6X4PSZ3"]);
+  assert.doesNotMatch(haystack, /B01DXKZ7EM|YOURTAG|\{\{AFF_/);
+});
+
 test("etched shower glass article may only use B007460F7Q and B0D6X4PSZ3 as Amazon ASINs", () => {
   const article = getArticle("how-to-restore-etched-shower-glass");
   assert.ok(article, "expected how-to-restore-etched-shower-glass to parse");
