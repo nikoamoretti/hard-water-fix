@@ -1,6 +1,10 @@
 import type { Product } from "@/lib/articles";
 
 export function ProductList({ products }: { products: Product[] }) {
+  if (products.length === 0) {
+    return null;
+  }
+
   return (
     <section
       className="border border-ink/20 bg-paper-shade px-5 py-5"

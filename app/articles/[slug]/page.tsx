@@ -101,17 +101,21 @@ export default async function ArticlePage({
         Written for the search: <span className="text-ink">{article.targetQuery}</span>
       </p>
 
-      <div className="mt-6">
-        <AffiliateDisclosure compact />
-      </div>
+      {article.products.length > 0 ? (
+        <div className="mt-6">
+          <AffiliateDisclosure compact />
+        </div>
+      ) : null}
 
       <article className="prose prose-neutral prose-article mt-10 max-w-none">
         <Markdown content={article.content} />
       </article>
 
-      <div className="mt-12">
-        <ProductList products={article.products} />
-      </div>
+      {article.products.length > 0 ? (
+        <div className="mt-12">
+          <ProductList products={article.products} />
+        </div>
+      ) : null}
     </main>
   );
 }
