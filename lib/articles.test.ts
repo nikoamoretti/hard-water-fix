@@ -10,6 +10,23 @@ test("all published articles parse and slugs match filenames", () => {
   assert.equal(slugs.size, articles.length, "article slugs must be unique");
 });
 
+test("rust toilet article names Iron Out with no 3P Amazon ASINs", () => {
+  const article = getArticle("how-to-remove-rust-stains-from-toilet-hard-water");
+  assert.ok(article, "expected rust toilet article to parse");
+  assert.equal(article.products.length, 1);
+  assert.equal(article.products[0]?.name, "Bar Keepers Friend Powdered Cleanser, 12 oz (2-pack)");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B07JGH35XZ?tag=hardwaterfi04-20",
+  );
+  assert.match(article.content, /Iron Out/);
+  assert.match(article.content, /amazon\.com\/dp\/B07JGH35XZ\?tag=hardwaterfi04-20/);
+  assert.doesNotMatch(article.content, /B00JOLNSFA/);
+  assert.doesNotMatch(article.content, /B016TQJGDK/);
+  assert.doesNotMatch(article.content, /YOURTAG/);
+  assert.doesNotMatch(JSON.stringify(article.products), /B00JOLNSFA|B016TQJGDK|YOURTAG/);
+});
+
 test("Instant Pot article is published without Amazon products", () => {
   const article = getArticle("how-to-descale-instant-pot");
   assert.ok(article, "expected how-to-descale-instant-pot to parse");
