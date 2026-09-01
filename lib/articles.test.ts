@@ -365,6 +365,24 @@ test("humidifier white dust article may only use B07VD4KN28 as an Amazon ASIN", 
   assert.doesNotMatch(haystack, /YOURTAG|\{\{AFF_/);
 });
 
+test("Hamilton Beach descale article may not contain any Amazon ASIN or amazon.com URL", () => {
+  const article = getArticle("how-to-descale-hamilton-beach-coffee-maker");
+  assert.ok(article, "expected how-to-descale-hamilton-beach-coffee-maker to parse");
+  assert.equal(article.slug, "how-to-descale-hamilton-beach-coffee-maker");
+  assert.equal(article.date, "2026-09-01");
+  assert.deepEqual(article.products, []);
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.deepEqual(amazonAsins, []);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
+  assert.doesNotMatch(article.content, /YOURTAG|\{\{AFF_/);
+  assert.doesNotMatch(haystack, /amazon\.com|YOURTAG|\{\{AFF_/i);
+});
+
 test("coffee carafe stain article may only use B07VD4KN28 as an Amazon ASIN", () => {
   const article = getArticle("how-to-remove-hard-water-stains-from-coffee-carafe");
   assert.ok(article, "expected how-to-remove-hard-water-stains-from-coffee-carafe to parse");
