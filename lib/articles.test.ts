@@ -298,3 +298,25 @@ test("porcelain sink article may only use B0C4G2BJKX and B07N4KGV2Q as Amazon AS
   assert.deepEqual([...new Set(amazonAsins)].sort(), ["B07N4KGV2Q", "B0C4G2BJKX"]);
   assert.doesNotMatch(haystack, /B00B28ZYPU|B00JOLNSFA|B00009EFEX|YOURTAG|\{\{AFF_/);
 });
+
+test("windshield spots article may only use B007460F7Q as an Amazon ASIN", () => {
+  const article = getArticle("how-to-remove-hard-water-spots-from-car-windshield");
+  assert.ok(article, "expected how-to-remove-hard-water-spots-from-car-windshield to parse");
+  assert.equal(article.slug, "how-to-remove-hard-water-spots-from-car-windshield");
+  assert.equal(article.date, "2026-08-31");
+  assert.equal(article.products.length, 1);
+  assert.equal(article.products[0]?.name, "3M Glass Polishing Compound 60150");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B007460F7Q?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)], ["B007460F7Q"]);
+  assert.doesNotMatch(haystack, /B0D6X4PSZ3|B07VD4KN28|B01DXKZ7EM|YOURTAG|\{\{AFF_/);
+});
