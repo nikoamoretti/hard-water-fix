@@ -248,3 +248,26 @@ test("windows stain article may only use B0C4G2BJKX as an Amazon ASIN", () => {
   assert.deepEqual([...new Set(amazonAsins)], ["B0C4G2BJKX"]);
   assert.doesNotMatch(haystack, /B07VD4KN28|B00009EFEX|B0D6X4PSZ3|YOURTAG|\{\{AFF_/);
 });
+
+test("shower tile article may only use B0C4G2BJKX as an Amazon ASIN", () => {
+  const article = getArticle("how-to-remove-hard-water-stains-from-shower-tile");
+  assert.ok(article, "expected how-to-remove-hard-water-stains-from-shower-tile to parse");
+  assert.equal(article.slug, "how-to-remove-hard-water-stains-from-shower-tile");
+  assert.equal(article.date, "2026-08-31");
+  assert.equal(article.products.length, 1);
+  assert.equal(article.products[0]?.name, "CLR Calcium, Lime & Rust Remover, 80 oz");
+  assert.equal(
+    article.products[0]?.url,
+    "https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20",
+  );
+
+  const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
+  const amazonAsins = [
+    ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
+  ].map((match) => match[1].toUpperCase());
+
+  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
+  assert.deepEqual([...new Set(amazonAsins)], ["B0C4G2BJKX"]);
+  assert.doesNotMatch(haystack, /B00009EFEX|Lime-A-Way|YOURTAG|\{\{AFF_/);
+  assert.doesNotMatch(haystack, /brilliantbath\.com/i);
+});
