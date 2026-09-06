@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-car-paint
 date: "2026-09-02"
 targetQuery: "how to remove hard water stains from car paint"
 excerpt: "Sprinkler spots on clear coat are mineral until they etch. Vinegar 50/50 with distilled on a cool shaded panel, 30-60 seconds, rinse, dry. Two failed acid passes means stop chemistry."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 Sprinklers and a hose dry on the clear coat. They leave white rings of calcium and magnesium. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3; very hard above 180. You do not need that lab number to clean a panel. You do need to know this is clear coat — not laminated windshield glass, not a house window, not a tempered stall door.
@@ -44,10 +42,10 @@ Cool panel only. Hot clear coat dries the mix into a new ring. CarCareTruth: vin
 
 1. Park in shade. Touch the hood. If it is warm, wait.
 2. Wash loose dirt. Road film blocks whatever you spray next. Dry.
-3. Mix equal parts distilled white vinegar and [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) in a spray bottle. Distilled rinse matters. Tap puts the same calcium and magnesium back on the panel.
+3. Mix equal parts distilled white vinegar and Amazon Grocery Distilled Water, 1 gal in a spray bottle. Distilled rinse matters. Tap puts the same calcium and magnesium back on the panel.
 4. Spray the *paint* only. Or wet a microfiber and park it on the spots so runoff does not sit in the sun.
 5. Sit **30-60 seconds**. Re-spray if it starts to dry. Do not leave it in the sun.
-6. Wipe with microfiber. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Buff dry.
+6. Wipe with microfiber. Rinse with distilled water. Buff dry.
 7. Wet the patch again. Judge it wet. Then fingernail it.
 
 If two wet passes lift the rings and the fingernail does not catch, stop. You had film. Skip polish.
@@ -122,7 +120,7 @@ No. Rain-X Original is a glass beader. Shower-door Rain-X is a stall door. Neith
 
 **Why distilled for the mix and the rinse?**
 
-Tap puts calcium and magnesium back on the panel. [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) is the 50/50 partner and the final rinse so those minerals do not re-spot.
+Tap puts calcium and magnesium back on the panel. Amazon Grocery Distilled Water, 1 gal is the 50/50 partner and the final rinse so those minerals do not re-spot.
 
 **Is this the same as the windshield or house windows?**
 
@@ -130,7 +128,7 @@ No. Windshield: [hard water spots from a car windshield](/articles/how-to-remove
 
 **Do I need a hose filter instead of distilled?**
 
-No. A deionizing hose filter is not a softener. This page does not sell one. [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) is the mix and the last rinse.
+No. A deionizing hose filter is not a softener. This page does not sell one. Amazon Grocery Distilled Water, 1 gal is the mix and the last rinse.
 
 **Can I mix vinegar with bleach?**
 
@@ -140,5 +138,5 @@ No. Poison Control: bleach plus an acid, including vinegar, forms chlorine gas. 
 
 - [USGS, Hardness of Water](https://www.usgs.gov/water-science-school/science/hardness-water) — hardness is dissolved calcium and magnesium; hard at 121 mg/L as CaCO3; very hard above 180
 - [CarCareTruth, What Causes Water Spots (and What Dissolves Them)](https://www.carcaretruth.com/guides/what-causes-water-spots-and-what-dissolves-them) — three tiers: surface mineral (mild acid 30-60 seconds), shallow etch (polish), deep etch (body shop); fingernail test; 1-to-1 vinegar on a cool panel; vinegar on a hot panel can attack clear coat; chemistry first, abrasion only after etch is confirmed
-- [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) — distilled water for the 50/50 mix and the final rinse so tap minerals do not re-spot
+- Amazon Grocery Distilled Water, 1 gal — distilled water for the 50/50 mix and the final rinse so tap minerals do not re-spot
 - [Poison Control, Chlorine gas](https://www.poison.org/articles/chlorine-gas) — bleach plus an acid, including vinegar, forms chlorine gas; leave the area and breathe fresh air; Poison Help 1-800-222-1222

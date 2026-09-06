@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-bathroom-mirror
 date: "2026-08-31"
 targetQuery: "how to remove hard water stains from bathroom mirror"
 excerpt: "White rings on a bathroom mirror are mineral film on silvered glass. Vinegar on the cloth, not the glass. Distilled mix and rinse. Black edge is backing failure, not stain."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 Toothpaste splash, faucet spray, and shower steam dry on the glass. They leave white rings of calcium and magnesium. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3; very hard above 180. This is a silvered bathroom mirror — a pane of glass with a metal layer on the back, then paint. Edges matter. Liquid that runs to the bottom seam can reach that backing. House windows do not have that silvering. Neither does a windshield. Neither does a stall door.
@@ -25,14 +23,14 @@ Faint white rings you can barely feel. Distilled white vinegar is about 5% aceti
 
 Kohler: do not spray cleaner directly onto the mirror. Spray a towel, then wipe. Moisture is the main cause of desilvering. Vinegar-based cleaners and ammonia can accelerate it *if they reach the backing*. That is the point of the cloth. Damp, not dripping. Nothing pools at the bottom edge.
 
-Tap water puts the same calcium and magnesium back on the pane. Mix and rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20).
+Tap water puts the same calcium and magnesium back on the pane. Mix and rinse with distilled water.
 
 1. Cool, dry mirror. Not in a steam cloud. Not in direct sun — Fab Glass: the mix dries into a new ring before you wipe.
-2. Mix equal parts distilled white vinegar and [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) in a small bowl or spray bottle. If you use a bottle, you still spray the *cloth*, not the glass.
+2. Mix equal parts distilled white vinegar and distilled water in a small bowl or spray bottle. If you use a bottle, you still spray the *cloth*, not the glass.
 3. Wring the microfiber until it is damp, not wet. If drops fall when you squeeze, wring again.
 4. Wipe top to bottom in an S-pattern (Fab Glass). Keep the wet edge away from the frame and the bottom seam.
 5. Sit a minute on stubborn rings by parking the damp cloth on that patch. Do not let it drip. Do not soak overnight.
-6. Wipe with a second dry microfiber. Rinse the first cloth in [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Wipe again. Buff dry.
+6. Wipe with a second dry microfiber. Rinse the first cloth in distilled water. Wipe again. Buff dry.
 7. Blot all four edges. Fab Glass: check the edges after every pass and blot moisture immediately.
 
 If two damp passes lift the rings and the glass looks clear while wet, stop. You had film.

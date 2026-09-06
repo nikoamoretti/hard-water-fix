@@ -5,8 +5,6 @@ date: "2026-09-02"
 targetQuery: "how to remove hard water stains from slate shower"
 excerpt: "Natural slate is not glazed tile. Distilled rinse and dry. Miracle Sealants Daily pH-neutral. Baking-soda paste on raised crust. No vinegar. No CLR."
 products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz"
     url: https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20
 ---
@@ -61,7 +59,7 @@ Rust-Oleum’s Miracle Sealants Daily Cleaner page: pH balanced; won’t dull or
 1. Clear bottles. Soft cloth. Soft nylon brush. No steel wool. No metal scraper.
 2. Spray [Miracle Sealants Daily](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20) on the haze. Let it sit a few minutes.
 3. Wipe the faces in circles. Soft brush in the clefts and grout. Do not grind grit into honed or cleft stone.
-4. Rinse. Then a [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) pass. Tap rinse puts the same calcium and magnesium back in the clefts.
+4. Rinse. Then a distilled water pass. Tap rinse puts the same calcium and magnesium back in the clefts.
 5. Dry immediately with a second cloth. Lingering moisture leaves fresh deposits. Get the clefts dry, not just the high spots.
 
 If two passes lift the haze and the finish matches, stop.
@@ -82,7 +80,7 @@ Leftover film in the clefts. Baking soda and water make a paste. Pantry. No Amaz
 2. Spread it on the crust and into clefts and grout only. Not a wall flood.
 3. Sit 5 to 10 minutes for a thin ring. For a deep cleft stain, cover and let it dry, then lift. Do not scrub dry powder into honed or cleft slate.
 4. Wipe with a damp cloth. Plastic scraper on leftover paste. Soft brush in the joints.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now. Get the clefts dry.
+5. Rinse with distilled water. Dry now. Get the clefts dry.
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this slate is an etch. Amazon Grocery distilled water, one gallon, is the rinse class. Dry the walls or the crust returns tonight.
 
@@ -141,7 +139,7 @@ Layered, matte or cleft, a drop darkens or soaks in: this page. Uniform glassy �
 
 **What cleaner is safe?**
 
-pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists granite and sandstone. The Amazon title names granite. This page is a slate shower. Same siliceous family. Different clefts. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists granite and sandstone. The Amazon title names granite. This page is a slate shower. Same siliceous family. Different clefts. Rinse with distilled water. Dry now.
 
 **Can I use baking soda?**
 

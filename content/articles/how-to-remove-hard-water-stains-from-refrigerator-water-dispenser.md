@@ -7,8 +7,6 @@ excerpt: "White crust on the fridge spout is scale, not mold. Vinegar wrap the n
 products:
   - name: "CLR Calcium, Lime & Rust Remover, 80 oz"
     url: https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "EveryDrop Refrigerator Water Filter 4"
     url: https://www.amazon.com/dp/B00UB38V2A?tag=hardwaterfi04-20
 ---
@@ -41,12 +39,12 @@ The tray is where splash dries into the same white crust.
 2. Set it level in the sink, not on natural stone. Vinegar etches marble and limestone.
 3. Pour distilled white vinegar into the wells until the chalky rings are covered. 30–60 minutes.
 4. Dump. Wipe remaining film with a cloth. Nylon on the grid is fine. Steel wool is not.
-5. Last rinse is [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Tap paints minerals back onto a wet tray as it air-dries.
+5. Last rinse is distilled water. Tap paints minerals back onto a wet tray as it air-dries.
 6. Dry, then seat it.
 
 ## Distilled rinse so you do not paint it back on
 
-Tap is how the crust got there. [Distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) has no calcium or magnesium to dry as a new ring. Wipe the paddle with a distilled-damp cloth after the wrap. Rinse the tray with distilled. Do not finish with a tap splash.
+Tap is how the crust got there. Distilled water has no calcium or magnesium to dry as a new ring. Wipe the paddle with a distilled-damp cloth after the wrap. Rinse the tray with distilled. Do not finish with a tap splash.
 
 A gallon is the class here: Amazon Grocery distilled water, 1 gal.
 
@@ -58,7 +56,7 @@ CLR’s household label: mix equal parts CLR and warm water. Apply with a cloth.
 
 Never pour CLR into the drinking line. Never bag it on the paddle and walk away. Never run it through the dispenser as a “flush.” The food-contact path stays vinegar.
 
-CLR’s stay-off list includes ice makers and any surface you cannot rinse thoroughly after two minutes. A fridge water line is that case. [CLR](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) stays on the chrome or plastic you can see and rinse. 80 oz household jug. Never the retired 28 oz bottle. After the two-minute pass, wipe with water, then a [distilled](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) cloth so the lip does not dry a new ring.
+CLR’s stay-off list includes ice makers and any surface you cannot rinse thoroughly after two minutes. A fridge water line is that case. [CLR](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) stays on the chrome or plastic you can see and rinse. 80 oz household jug. Never the retired 28 oz bottle. After the two-minute pass, wipe with water, then a distilled cloth so the lip does not dry a new ring.
 
 ## The fridge filter is not a softener
 

@@ -4,9 +4,7 @@ slug: humidifier-white-dust-hard-water
 date: "2026-08-31"
 targetQuery: "humidifier white dust hard water"
 excerpt: "White dust from a humidifier is calcium and magnesium from tap water. Ultrasonic and impeller units aerosolize it. Distilled fill is the fix. Distilled does not stop mold."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 White powder on the dresser is not a dying humidifier. It is calcium and magnesium from the tap. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. An ultrasonic or impeller unit turns that water into mist. The droplets dry. The minerals stay. That film is white dust.
@@ -29,7 +27,7 @@ Match the machine first. Then change the water. Do not rewrite the owner's clean
 
 2. [Test hardness](/articles/how-to-test-water-hardness-at-home) if you want a number. Moderately hard starts at 61 mg/L. Hard starts at 121. Very hard is above 180. The white film tracks that number. Soft tap can still dust an ultrasonic if dissolved solids remain. Distilled is still the fill.
 
-3. Dump yesterday's tap. Wipe the tank dry. Fill an ultrasonic or impeller with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). EPA: distillation is the most effective way to remove minerals. Buy the jug labeled distilled, not purified-from-spring. One gallon of Amazon Grocery distilled water is the fill class here.
+3. Dump yesterday's tap. Wipe the tank dry. Fill an ultrasonic or impeller with distilled water. EPA: distillation is the most effective way to remove minerals. Buy the jug labeled distilled, not purified-from-spring. One gallon of Amazon Grocery distilled water is the fill class here.
 
 4. If your ultrasonic takes a demineralization cartridge, use the part the booklet names. EPA: those cartridges vary, and white dust means minerals are still getting through. In hard-water country, distilled is often cheaper than chasing cartridges.
 
@@ -45,7 +43,7 @@ Ultrasonic: a metal plate vibrates. Water becomes a visible cool mist. Every dis
 
 Evaporative: a wick soaks. A fan evaporates water off the fabric. Calcium and magnesium stay in the wick until you replace it. Steam / warm-mist: the tank boils. Minerals stay in the boiling chamber as scale. EPA: those two types are not expected to disperse substantial minerals.
 
-If you like the quiet ultrasonic you already own, keep it. Fill it with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Add the demineralization cartridge only if that model is built for one. If you want tap water in the tank, that is an evaporative job, not a new ultrasonic with a "filter" sticker.
+If you like the quiet ultrasonic you already own, keep it. Fill it with distilled water. Add the demineralization cartridge only if that model is built for one. If you want tap water in the tank, that is an evaporative job, not a new ultrasonic with a "filter" sticker.
 
 ## What not to do
 
@@ -55,7 +53,7 @@ If you like the quiet ultrasonic you already own, keep it. Fill it with [distill
 - Do not treat a pitcher filter as a softener. Carbon pitchers do not strip hardness. A [shower filter](/articles/best-shower-filter-for-hard-water) is not a softener either — it does not make ultrasonic fill water.
 - Do not treat softened tap as automatically dust-free. Ion-exchange swaps calcium for sodium. EPA is talking about distilled or demineralized, not a laundry softener jug poured into a misting tank.
 - Do not skip emptying because you switched to distilled. Distilled is the mineral fix. Mold is a wet-tank problem.
-- Do not mix vinegar and bleach if you later clean the tank. Those two make chlorine gas. Pick one chemistry. Rinse until you cannot smell it. Then refill with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20).
+- Do not mix vinegar and bleach if you later clean the tank. Those two make chlorine gas. Pick one chemistry. Rinse until you cannot smell it. Then refill with distilled water.
 - Do not run a full vinegar soak as this article's how-to. This page is the powder on the dresser, not a humidifier-clean URL.
 - Do not buy a mist-free brand as a hardness treatment. Evaporative geometry leaves minerals in a wick. That is a type change, not a softener.
 

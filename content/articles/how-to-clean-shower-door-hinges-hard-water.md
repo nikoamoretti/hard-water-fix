@@ -7,8 +7,6 @@ excerpt: "Scale in the pivot makes a shower door stiff. Vinegar 50/50 on a tooth
 products:
   - name: "CLR Calcium, Lime & Rust Remover, 80 oz"
     url: https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Iron Out Rust Stain Remover, 2-pack"
     url: https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20
 ---
@@ -28,7 +26,7 @@ REXI: soap scum, hard water deposits, and dirt pack the hinge. That buildup make
 - **Brass, oil-rubbed bronze, painted** — mechanical wipe only. Then **stop**. CLR’s stay-off list includes brass and painted, coated, or sealed surfaces. CLR can take the finish off brass and pit it.
 - **Threshold** — marble, limestone, granite next to the curb. CLR: avoid natural stone. Keep acid off that stone.
 
-You need distilled white vinegar from the pantry (grocery bottle, no Amazon vinegar). A soft toothbrush. A cloth. [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) for the rinse. [CLR Calcium, Lime & Rust Remover](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) only if the hinge is chrome or stainless and vinegar left crust. [Iron Out](https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20) only if the orange is rust on that same hinge — never mixed with CLR.
+You need distilled white vinegar from the pantry (grocery bottle, no Amazon vinegar). A soft toothbrush. A cloth. Amazon Grocery Distilled Water, 1 gal for the rinse. [CLR Calcium, Lime & Rust Remover](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) only if the hinge is chrome or stainless and vinegar left crust. [Iron Out](https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20) only if the orange is rust on that same hinge — never mixed with CLR.
 
 ## 1. Vinegar 50/50. Toothbrush in the knuckle.
 
@@ -51,7 +49,7 @@ No citric on this page. No Lime-A-Way. No Rain-X Shower Door on hardware.
 
 ## 2. Distilled rinse. Tap water puts the mineral back.
 
-Hard tap water is how the scale got into the knuckle. After vinegar (and after CLR, if you use it), rinse with [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Then towel the pivot dry.
+Hard tap water is how the scale got into the knuckle. After vinegar (and after CLR, if you use it), rinse with Amazon Grocery Distilled Water, 1 gal. Then towel the pivot dry.
 
 A tap rinse on very hard water can drop a fresh film in the same joint you just opened. Distilled has no calcium to redeposit. Then dry. REXI: wipe the hinges after each use so water does not sit on the metal.
 
@@ -67,7 +65,7 @@ CLR: do not use on brass, copper, aluminum, galvanized metals, or painted, coate
 
 1. Chrome or stainless hinge. Cloth or toothbrush. 50/50 [CLR Calcium, Lime & Rust Remover, 80 oz](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) and warm water, or a short full-strength pass on a stubborn chrome patch.
 2. Two minutes. Label clock. Not 30. Not overnight in the knuckle.
-3. Cold rinse, then a [distilled](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) rinse until it smells like water. CLR: rinse thoroughly. Surfaces that cannot be rinsed after 2 minutes are a stay-off.
+3. Cold rinse, then a distilled rinse until it smells like water. CLR: rinse thoroughly. Surfaces that cannot be rinsed after 2 minutes are a stay-off.
 4. Towel the crevices dry.
 5. If the stall still smells like bleach, rinse until it doesn’t, then start. CLR is an acid-side rust remover. Do not mix it with bleach. Do not mix it with Iron Out.
 

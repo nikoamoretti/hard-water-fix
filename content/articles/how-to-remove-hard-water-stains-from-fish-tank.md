@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-fish-tank
 date: "2026-09-06"
 targetQuery: "how to remove hard water stains from fish tank"
 excerpt: "Empty the tank. Vinegar 1:1 on fish-out glass, 5–15 minutes, rinse hard. Distilled final wipe. No CLR in the water column."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 Empty the tank. Fish out. Vinegar 1:1 on the dry glass. 5 to 15 minutes. Exhaustive rinse. Distilled final wipe. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Those minerals dry as a white ring at the waterline. Algae is green film. Scale is chalky mineral. Do not pour vinegar into an inhabited tank. Do not put CLR in the water column.
@@ -48,7 +46,7 @@ Interior waterline. Tank empty of livestock. Decor out or wiped separately. Pant
 4. Sit 5 to 15 minutes. Keep the patch wet. Do not let acid dry into a new film.
 5. Plastic scraper on acrylic. Aquarium glass blade on glass only — stop about 1/4 inch from silicone seams. Never dig a razor into silicone corners.
 6. Rinse hard. Multiple passes of clean water until the vinegar smell is gone from the glass. Exhaustive rinse is the safety step. Residual acid belongs nowhere near livestock.
-7. Final wipe with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry the glass above the new fill line.
+7. Final wipe with distilled water. Dry the glass above the new fill line.
 
 Amazon Grocery distilled water, one gallon, is the final-wipe and top-off class. Tap wipe puts the same calcium and magnesium back on the glass.
 
@@ -70,7 +68,7 @@ Raised chalk that survives vinegar: damp plastic scraper first. Then another sho
 
 ## Distilled top-off slows the ring. It does not sanitize.
 
-Evaporation leaves minerals behind. Topping off with tap rebuilds the waterline crust. Topping off with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) adds volume without adding calcium and magnesium. That slows the ring. It does not kill algae. It does not replace a water change. It does not replace cycle chemistry.
+Evaporation leaves minerals behind. Topping off with tap rebuilds the waterline crust. Topping off with distilled water adds volume without adding calcium and magnesium. That slows the ring. It does not kill algae. It does not replace a water change. It does not replace cycle chemistry.
 
 Keep regular water changes on your normal schedule. Distilled is for evaporation top-off and the final glass wipe after vinegar, not a free pass on tank hygiene.
 
