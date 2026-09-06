@@ -4,9 +4,7 @@ slug: how-to-descale-a-baby-bottle-sterilizer
 date: "2026-09-06"
 targetQuery: "how to descale a baby bottle sterilizer"
 excerpt: "White crust on the steam plate. Vinegar at the maker dilution. Empty run. Distilled fill going forward. Not medical advice."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 White crust on the steam plate. That is hard-water scale on the heating plate and in the reservoir — not on the bottles, not a kettle, not a CPAP tank. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Those minerals dry as chalk where the unit boils water into steam. Pantry vinegar at the maker dilution. Empty run. One plain-water cycle after. Distilled fill going forward. Not medical advice.
@@ -66,7 +64,7 @@ Spot-check after the wipe. If white film remains but the plate coating looks int
 
 Acid smell and acid film must leave before the next sterilizing load. Skip this rinse and the next steam cycle can carry vinegar odor onto bottles and parts.
 
-1. Fill with the plain water volume the sheet uses for a normal cycle — preferably [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) for this rinse pass.
+1. Fill with the plain water volume the sheet uses for a normal cycle — preferably distilled water for this rinse pass.
 2. Run one empty steam cycle. No bottles. No parts.
 3. Discard that water. Wipe the plate dry. Wipe the reservoir dry. Lid ajar until cool and dry if the booklet allows.
 4. Smell the chamber. Water only. Not salad dressing.
@@ -144,7 +142,7 @@ Poison Help **1-800-222-1222** for exposure questions. Keep vinegar and spent de
 
 1. Bottles out. Read YOUR dilution — Avent-style 12 ml vinegar + 120 ml water for a short empty run, or Momcozy-style 1:1 about every four weeks in hard water, only as booklet examples.
 2. Empty vinegar cycle on the plate or reservoir. Soft wipe. Corners too.
-3. One plain-water empty cycle. Prefer [distilled](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20).
+3. One plain-water empty cycle. Prefer distilled.
 4. Dry the plate. Fill with distilled going forward. Rinse on a schedule when the tap is hard.
 5. If the booklet bans vinegar, use only what it names. No CLR. No coffee-machine bottle. No bleach.
 
