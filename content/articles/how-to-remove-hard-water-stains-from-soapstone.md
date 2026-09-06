@@ -52,7 +52,7 @@ Pantry dish soap. No Amazon link.
 
 If two passes lift the haze and the color matches, stop.
 
-Amazon Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the crust returns tonight.
+Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the crust returns tonight.
 
 ## Plastic scraper. Baking-soda paste. Distilled rinse. Dry.
 

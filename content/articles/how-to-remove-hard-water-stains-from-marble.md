@@ -43,7 +43,7 @@ NSI: clean stone with a neutral cleaner, stone soap, or a mild liquid dishwashin
 3. Rinse with distilled. Tap rinse puts the same calcium and magnesium back on the polish.
 4. Dry immediately with a second cloth.
 
-Amazon Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the ring returns tonight.
+Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the ring returns tonight.
 
 If two damp passes lift the haze and the polish matches the rest of the slab, stop.
 

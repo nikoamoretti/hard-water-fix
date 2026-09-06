@@ -58,9 +58,9 @@ Stain Removal Guides: if the spots are stubborn, repeat the process rather than 
 
 Tap rinse puts the same calcium and magnesium back on the wear layer. Distilled does not.
 
-Rinse the vinegar cloth with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like salad. Dry now. Stain Removal Guides: dampen a clean microfiber with plain distilled water to remove lingering vinegar residue, then dry immediately. Formica: rinse with clean water, then dry with a soft, non-abrasive cotton cloth. Wilsonart: rinse thoroughly and wipe dry. Standing tap water is how the ring returns.
+Rinse the vinegar cloth with grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like salad. Dry now. Stain Removal Guides: dampen a clean microfiber with plain distilled water to remove lingering vinegar residue, then dry immediately. Formica: rinse with clean water, then dry with a soft, non-abrasive cotton cloth. Wilsonart: rinse thoroughly and wipe dry. Standing tap water is how the ring returns.
 
-Daily going forward is a wipe, not another acid sit. Kitchen Magic: warm, soapy water. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same Amazon Grocery Distilled Water, 1 gal jug. It is not a stone sealer. Laminate does not take one.
+Daily going forward is a wipe, not another acid sit. Kitchen Magic: warm, soapy water. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same grocery distilled jug. It is not a stone sealer. Laminate does not take one.
 
 Do not mix the daily wipe with bleach. Do not leave a wet cloth parked on the deck overnight. Do not soak the seams.
 
@@ -78,7 +78,7 @@ Film versus crust already lives on [vinegar vs CLR](/articles/vinegar-vs-clr-for
 
 1. Ventilate. Gloves. Mix **equal parts** CLR with warm water. Spot-test a hidden patch of the *wear layer*.
 2. Apply with a cloth on the leftover crust only. **No longer than 2 minutes.** Do not let it dry. Keep it off seams, raw particleboard, and caulk.
-3. Rinse immediately with Amazon Grocery Distilled Water, 1 gal, then cold tap if you must, then distilled again. Dry now.
+3. Rinse immediately with grocery distilled water (1 gal), then cold tap if you must, then distilled again. Dry now.
 4. One fresh 2-minute pass if raised crust remains. Then stop.
 
 Do not paste Lime-A-Way. Do not paste citric. Do not paste Granite Gold Daily. Those are other pages. Not this deck.

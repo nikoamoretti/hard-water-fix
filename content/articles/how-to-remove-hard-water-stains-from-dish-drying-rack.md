@@ -74,7 +74,7 @@ CLR is an acid-side rust remover. Washington State DOH: rust-removal products ar
 
 ## Distilled last rinse. Tap water puts the mineral back.
 
-Hard tap water is how the crust got on the tines. After vinegar (and after CLR, if you use it), rinse with Amazon Grocery Distilled Water, 1 gal. Then towel the rack dry.
+Hard tap water is how the crust got on the tines. After vinegar (and after CLR, if you use it), rinse with grocery distilled water (1 gal). Then towel the rack dry.
 
 A tap rinse on very hard water can drop a fresh film on the same tines you just cleaned. Distilled has no calcium to redeposit. Then dry. Put it back wet and the spots come back the same day.
 

@@ -53,9 +53,9 @@ ARSTAR’s shower-panel soap-scum note is shorter: 50/50, sit **10 minutes**, th
 
 Tap rinse puts the same calcium and magnesium back on the gel coat. Distilled does not.
 
-Rinse the vinegar cloth with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like salad. Dry now. ARSTAR: rinse surfaces after cleaning to remove any residue. Standing hard water is how the crust returns. ARSTAR care blog: standing water — especially hard water — leaves mineral deposits if it evaporates repeatedly.
+Rinse the vinegar cloth with grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like salad. Dry now. ARSTAR: rinse surfaces after cleaning to remove any residue. Standing hard water is how the crust returns. ARSTAR care blog: standing water — especially hard water — leaves mineral deposits if it evaporates repeatedly.
 
-Daily going forward is a wipe, not another acid sit. ARSTAR: mild soap and a soft cloth. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same Amazon Grocery Distilled Water, 1 gal jug. It is not a stone sealer. The gel coat does not take one. ARSTAR: non-porous gel coat — zero maintenance sealing.
+Daily going forward is a wipe, not another acid sit. ARSTAR: mild soap and a soft cloth. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same grocery distilled jug. It is not a stone sealer. The gel coat does not take one. ARSTAR: non-porous gel coat — zero maintenance sealing.
 
 Do not mix the daily wipe with bleach. Do not leave a wet cloth parked on the deck overnight.
 

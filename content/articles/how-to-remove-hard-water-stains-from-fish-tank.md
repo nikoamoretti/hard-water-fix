@@ -48,7 +48,7 @@ Interior waterline. Tank empty of livestock. Decor out or wiped separately. Pant
 6. Rinse hard. Multiple passes of clean water until the vinegar smell is gone from the glass. Exhaustive rinse is the safety step. Residual acid belongs nowhere near livestock.
 7. Final wipe with distilled water. Dry the glass above the new fill line.
 
-Amazon Grocery distilled water, one gallon, is the final-wipe and top-off class. Tap wipe puts the same calcium and magnesium back on the glass.
+Grocery distilled water, one gallon, is the final-wipe and top-off class. Tap wipe puts the same calcium and magnesium back on the glass.
 
 If one 15-minute pass lifts the chalk and the panel looks clear wet, stop. Repeat only on remaining raised crust after another rinse.
 

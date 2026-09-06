@@ -86,7 +86,7 @@ D and G Floors: mix baking soda with water to a thick paste, peanut-butter consi
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this stone is an etch.
 
-Amazon Grocery distilled water, one gallon, is the rinse class. Dry the shower or the faucet zone or the crust returns tonight.
+Grocery distilled water, one gallon, is the rinse class. Dry the shower or the faucet zone or the crust returns tonight.
 
 ## Honed vs filled vs unfilled
 

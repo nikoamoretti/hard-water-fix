@@ -58,7 +58,7 @@ Tap rinse puts the same calcium and magnesium back in the well. Distilled does n
 
 Drain the vinegar. Wash the cover, spreader, stem, and basket. West Bend: hot, soapy water. Pay attention to the heating unit well. Cuisinart: warm soapy water on the cover, basket, lid, and pump tube. Then two full water cycles through the assembled pot. Coletti FAQ: two clean water cycles to remove any vinegar taste. Cuisinart prints one. This page is two. One leftover cup of acid and the next brew is salad.
 
-Last pass is Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Rinse until it does not smell like vinegar. Dry. Do not air-dry tap water on the walls. That is how the white crust returns.
+Last pass is grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. Rinse until it does not smell like vinegar. Dry. Do not air-dry tap water on the walls. That is how the white crust returns.
 
 If you want the hardness number, [test the tap](/articles/how-to-test-water-hardness-at-home). This jug does not descale a drip machine or an espresso boiler. Those jobs live on [how to descale Mr. Coffee](/articles/how-to-descale-mr-coffee) and [Hamilton Beach](/articles/how-to-descale-hamilton-beach-coffee-maker). Wrong product class: [vinegar vs descaling solution](/articles/vinegar-vs-descaling-solution-coffee-maker).
 
@@ -90,7 +90,7 @@ Both films: soap the brown first. Then vinegar on the white. Do not mix vinegar 
 - Do not paste Dezcal. Do not paste a Keurig bottle or a Breville espresso 6-pack. No citric on this page. Wrong class: [vinegar vs descaling solution](/articles/vinegar-vs-descaling-solution-coffee-maker).
 - Do not run this distilled jug as a [Mr. Coffee](/articles/how-to-descale-mr-coffee) or [Hamilton Beach](/articles/how-to-descale-hamilton-beach-coffee-maker) drip descale. It does not descale an espresso boiler.
 - Do not stop after one water cycle if the pot still smells like salad. Two.
-- Do not finish with tap and call it done. Last rinse is Amazon Grocery Distilled Water, 1 gal so spots do not re-form.
+- Do not finish with tap and call it done. Last rinse is grocery distilled water (1 gal) so spots do not re-form.
 - Do not mix vinegar and bleach. Chlorine gas. Fresh air. **1-800-222-1222**.
 
 ## FAQ

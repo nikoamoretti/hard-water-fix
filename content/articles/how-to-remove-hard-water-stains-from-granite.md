@@ -33,7 +33,7 @@ If you cannot name the stone, do not acid it. Do not wool it.
 
 Faint haze you can barely feel. Not raised crust. Damp a microfiber with distilled water. Wipe the ring. Buff dry with a second cloth.
 
-Tap rinse puts the same calcium and magnesium back on the polish. Distilled does not. Amazon Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the ring returns tonight.
+Tap rinse puts the same calcium and magnesium back on the polish. Distilled does not. Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the ring returns tonight.
 
 If two damp passes lift the haze and the polish matches the rest of the slab, stop.
 

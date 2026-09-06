@@ -39,9 +39,9 @@ If the booklet says drinking-quality, that is that booklet. If the booklet or th
 
 The CPAP Shop: when non-distilled water evaporates, minerals bond to the heating plate and the chamber walls. Thick scale can interfere with the heater. It also takes up space, so the tub holds less and can run dry overnight. USGS: when hard water is heated, solid deposits of calcium carbonate can form. Same mineral. Smaller tub.
 
-Nightly fill is Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Fill to the line on the removed chamber. Do not pour water into a tub still locked on the blower.
+Nightly fill is grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. Fill to the line on the removed chamber. Do not pour water into a tub still locked on the blower.
 
-Same Amazon Grocery Distilled Water, 1 gal jug at bedtime. Fresh. Not yesterday's leftover. Distilled does not sanitize. The morning empty still happens.
+Same grocery distilled jug at bedtime. Fresh. Not yesterday's leftover. Distilled does not sanitize. The morning empty still happens.
 
 ## Vinegar soak of the removed chamber. Quote the mix. Do not average.
 

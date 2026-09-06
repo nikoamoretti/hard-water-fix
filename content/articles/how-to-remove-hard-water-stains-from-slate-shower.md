@@ -82,7 +82,7 @@ Leftover film in the clefts. Baking soda and water make a paste. Pantry. No Amaz
 4. Wipe with a damp cloth. Plastic scraper on leftover paste. Soft brush in the joints.
 5. Rinse with distilled water. Dry now. Get the clefts dry.
 
-Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this slate is an etch. Amazon Grocery distilled water, one gallon, is the rinse class. Dry the walls or the crust returns tonight.
+Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this slate is an etch. Grocery distilled water, one gallon, is the rinse class. Dry the walls or the crust returns tonight.
 
 ## Clefts and grout. Reseal when water stops beading.
 

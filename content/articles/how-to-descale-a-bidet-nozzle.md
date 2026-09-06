@@ -60,7 +60,7 @@ TOTO SW2033R / SW2014: **“The tank should be filled with water only.”** Do n
 1. Self-clean. Extend. On an electric seat, unplug once the wand is out so it cannot retract while you wrap.
 2. Soak a cloth or paper towel in distilled white vinegar. Wrap the spray holes. 10–30 minutes. Re-wet if it dries. Horow: apply only where scale is visible; do not soak wiring or sensors.
 3. Unwrap. Soft toothbrush on the holes. Wooden toothpick for a stubborn hole. Bidet.blog: wooden toothpick; metal tools scratch and worsen clogs. TUSHY: no sharp object in the openings.
-4. Rinse. Self-clean cycle, or wipe with Amazon Grocery Distilled Water, 1 gal on a clean cloth so you are not putting tap calcium back on the tip. Run two or three more self-clean cycles to flush loosened scale. Horow: skip that rinse and leftover acid plus debris stay in the path.
+4. Rinse. Self-clean cycle, or wipe with grocery distilled water (1 gal) on a clean cloth so you are not putting tap calcium back on the tip. Run two or three more self-clean cycles to flush loosened scale. Horow: skip that rinse and leftover acid plus debris stay in the path.
 
 Do not pour vinegar into the toilet tank and call the wand done. Do not run vinegar through the pump unless *that* booklet writes a reservoir cycle. None of the US TOTO, Brondell Swash, Kohler, Bio Bidet, LUXE, or TUSHY sheets fetched for this page print a vinegar tank-fill descale. TOTO prints water only.
 
@@ -82,7 +82,7 @@ Tap-fed seats will keep seeing hardness. The wrap treats the holes. The next fil
 
 Architecture Lab: portable and travel bidets fail for boring reasons — water left in the reservoir, residue in the nozzle, and scale if they are filled with hard water and never rinsed. Empty after use. Let it dry.
 
-Amazon Grocery Distilled Water, 1 gal is the refill going forward on those reservoir models. One gallon. Steam distilled, filtered, ozonated. It is not a descale of an electric seat’s internal tank. TOTO still wants drinking water in a Washlet tank — water only, not vinegar. Do not pour this gallon into a Swash and call the pump descaled.
+Grocery distilled water (1 gal) is the refill going forward on those reservoir models. One gallon. Steam distilled, filtered, ozonated. It is not a descale of an electric seat’s internal tank. TOTO still wants drinking water in a Washlet tank — water only, not vinegar. Do not pour this gallon into a Swash and call the pump descaled.
 
 ## What not to do
 

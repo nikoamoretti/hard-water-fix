@@ -26,7 +26,7 @@ REXI: soap scum, hard water deposits, and dirt pack the hinge. That buildup make
 - **Brass, oil-rubbed bronze, painted** — mechanical wipe only. Then **stop**. CLR’s stay-off list includes brass and painted, coated, or sealed surfaces. CLR can take the finish off brass and pit it.
 - **Threshold** — marble, limestone, granite next to the curb. CLR: avoid natural stone. Keep acid off that stone.
 
-You need distilled white vinegar from the pantry (grocery bottle, no Amazon vinegar). A soft toothbrush. A cloth. Amazon Grocery Distilled Water, 1 gal for the rinse. [CLR Calcium, Lime & Rust Remover](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) only if the hinge is chrome or stainless and vinegar left crust. [Iron Out](https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20) only if the orange is rust on that same hinge — never mixed with CLR.
+You need distilled white vinegar from the pantry (grocery bottle, no Amazon vinegar). A soft toothbrush. A cloth. Grocery distilled water (1 gal) for the rinse. [CLR Calcium, Lime & Rust Remover](https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20) only if the hinge is chrome or stainless and vinegar left crust. [Iron Out](https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20) only if the orange is rust on that same hinge — never mixed with CLR.
 
 ## 1. Vinegar 50/50. Toothbrush in the knuckle.
 
@@ -49,7 +49,7 @@ No citric on this page. No Lime-A-Way. No Rain-X Shower Door on hardware.
 
 ## 2. Distilled rinse. Tap water puts the mineral back.
 
-Hard tap water is how the scale got into the knuckle. After vinegar (and after CLR, if you use it), rinse with Amazon Grocery Distilled Water, 1 gal. Then towel the pivot dry.
+Hard tap water is how the scale got into the knuckle. After vinegar (and after CLR, if you use it), rinse with grocery distilled water (1 gal). Then towel the pivot dry.
 
 A tap rinse on very hard water can drop a fresh film in the same joint you just opened. Distilled has no calcium to redeposit. Then dry. REXI: wipe the hinges after each use so water does not sit on the metal.
 

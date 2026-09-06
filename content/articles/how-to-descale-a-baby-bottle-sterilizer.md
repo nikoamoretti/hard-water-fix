@@ -75,7 +75,7 @@ If you still smell vinegar, run a second plain-water empty cycle. Do not load bo
 
 Prevention is the boring win. Tap hardness put the crust there. Distilled fill slows the return.
 
-Amazon Grocery distilled water, one gallon, is the fill class for the reservoir when your booklet allows distilled or purified water. Same jug for daily fills and for the post-vinegar rinse. Rinse bottles and parts per your washer sheet — this page is the sterilizer plate, not a bottle-washing guide.
+Grocery distilled water, one gallon, is the fill class for the reservoir when your booklet allows distilled or purified water. Same jug for daily fills and for the post-vinegar rinse. Rinse bottles and parts per your washer sheet — this page is the sterilizer plate, not a bottle-washing guide.
 
 Habits that keep the plate clear:
 
