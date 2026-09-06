@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-coffee-carafe
 date: "2026-08-31"
 targetQuery: "how to remove hard water stains from coffee carafe"
 excerpt: "White chalk in a coffee carafe is mineral film on the pot, not the machine. Vinegar soak 30 minutes to a few hours. Distilled last rinse. Brown film is coffee oil."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 This is the pot. Not the reservoir. Not the heater. Not the CLEAN light. White chalk on the glass or the stainless liner is calcium and magnesium left when brew water dries. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3; very hard above 180. You do not need that lab number. Name the stain before you soak.
@@ -38,7 +36,7 @@ Cuisinart DCC-3200: wash the carafe and lid in warm, soapy water, or the dishwas
 3. Fill enough to cover the white film. Full if the haze runs up the wall. Room-temperature vinegar. Do not pour boiling vinegar into a cold glass pot.
 4. Sit **30 minutes**. Stubborn chalk can sit a few hours. Re-wet the walls if the level drops.
 5. Bottle brush. Nylon. Cuisinart DCC-3200: do not clean the carafe with cleansers, steel wool pads, or other abrasive materials. Scratches on glass are crack starts.
-6. Dump. Rinse with tap until it does not smell like salad. Then a last rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) so tap minerals do not dry back on as spots.
+6. Dump. Rinse with tap until it does not smell like salad. Then a last rinse with distilled water so tap minerals do not dry back on as spots.
 7. Air-dry inverted, or wipe dry. Tap droplets on a clean wall are tomorrow’s rings.
 
 If two timed soaks lift the chalk and the glass looks clear while wet, stop. You had film.
@@ -81,7 +79,7 @@ Do not pour the carafe soak into the reservoir as a shortcut.
 - Do not soak overnight as the default. Thirty minutes to a few hours.
 - Do not keep aciding a frost that looks the same wet and dry. That can be etch.
 - Do not run this soak as a machine descale. The pot is not the heater.
-- Do not finish with tap and call it done. Last rinse is [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) so spots do not re-form as it air-dries.
+- Do not finish with tap and call it done. Last rinse is distilled water so spots do not re-form as it air-dries.
 
 ## FAQ
 
@@ -101,7 +99,7 @@ Only if *your* booklet says so — Cuisinart DCC-3200: upper rack only. A dishwa
 That is the machine. Not this pot. [Cuisinart](/articles/how-to-descale-cuisinart-coffee-maker) or [Ninja](/articles/how-to-descale-ninja-coffee-maker), depending on the box. Comparison: [vinegar vs descaling solution](/articles/vinegar-vs-descaling-solution-coffee-maker).
 
 **Why distilled for the last rinse?**
-Tap is how the spots got there. [Distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) has no calcium or magnesium to dry as rings.
+Tap is how the spots got there. Distilled water has no calcium or magnesium to dry as rings.
 
 **How hard is hard?**
 USGS: 0–60 mg/L as CaCO3 is soft; 61–120 moderately hard; 121–180 hard; above 180 very hard. [Test at home](/articles/how-to-test-water-hardness-at-home) if you want the number.

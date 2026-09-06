@@ -5,8 +5,6 @@ date: "2026-09-02"
 targetQuery: "how to remove hard water stains from granite"
 excerpt: "The white ring around the faucet is mineral on sealed granite, not a stain in the stone. Distilled wipe first. No vinegar. No CLR."
 products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Granite Gold Daily Cleaner, 32 oz"
     url: https://www.amazon.com/dp/B0892F9FGB?tag=hardwaterfi04-20
 ---
@@ -33,7 +31,7 @@ If you cannot name the stone, do not acid it. Do not wool it.
 
 ## Distilled damp wipe on light film
 
-Faint haze you can barely feel. Not raised crust. Damp a microfiber with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Wipe the ring. Buff dry with a second cloth.
+Faint haze you can barely feel. Not raised crust. Damp a microfiber with distilled water. Wipe the ring. Buff dry with a second cloth.
 
 Tap rinse puts the same calcium and magnesium back on the polish. Distilled does not. Amazon Grocery distilled water, one gallon, is the rinse class. Dry the faucet zone or the ring returns tonight.
 
@@ -47,7 +45,7 @@ Raised white crust a fingernail catches. SHINENOS: baking-soda paste and water, 
 2. Spread it on the crust only.
 3. Sit 5 to 10 minutes for a thin ring, up to 30 if it is still raised. Do not let it dry hard.
 4. Wipe with a damp cloth. Do not scrub dry powder into the polish.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Buff dry.
+5. Rinse with distilled water. Buff dry.
 
 This poultice is mechanical. Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra cleaning. That mix myth already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains).
 
@@ -68,7 +66,7 @@ No coarse pads. No powdered cleanser.
 
 Film, paste, and wool did not finish it. Use a pH-neutral stone cleaner or a granite-labeled hard-water remover. That is the Granite Gold Hard Water Stain Remover class: stone-safe, pH-balanced, built for granite, not a bathroom descaler. Granite Gold: the buildup on sealed granite is limescale on the face, not a stain in the slab. Daily Cleaner is the pH-balanced daily example. It is a stone cleaner, not a bathroom descaler.
 
-[pH-neutral stone cleaner](https://www.amazon.com/dp/B0892F9FGB?tag=hardwaterfi04-20) — granite-labeled hard-water remover, Granite Gold Hard Water Stain Remover class. Follow the label dwell. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry.
+[pH-neutral stone cleaner](https://www.amazon.com/dp/B0892F9FGB?tag=hardwaterfi04-20) — granite-labeled hard-water remover, Granite Gold Hard Water Stain Remover class. Follow the label dwell. Rinse with distilled water. Dry.
 
 Keep generic lime removers off this stone. They are acid. They are not this class.
 

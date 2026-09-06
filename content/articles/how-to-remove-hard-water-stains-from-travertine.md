@@ -5,8 +5,6 @@ date: "2026-09-02"
 targetQuery: "how to remove hard water stains from travertine"
 excerpt: "Travertine is calcium carbonate with holes. Vinegar and CLR etch it. pH-neutral stone cleaner, plastic scraper, distilled rinse. Cleaning will not undo an etch."
 products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz"
     url: https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20
 ---
@@ -61,7 +59,7 @@ Rust-Oleum’s Miracle Sealants Daily Cleaner page: pH balanced; won’t dull or
 1. Clear bottles. Soft cloth. Soft brush. No steel wool.
 2. Spray [Miracle Sealants Daily](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20) on the haze. Tucson: let it sit a few minutes.
 3. Wipe in circles. Soft brush in grout lines and open pits. Do not grind grit into honed.
-4. Rinse. Then a [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) pass. Tap rinse puts the same calcium and magnesium back in the holes.
+4. Rinse. Then a distilled water pass. Tap rinse puts the same calcium and magnesium back in the holes.
 5. Dry immediately with a second cloth. Tucson: lingering moisture leaves fresh deposits.
 
 If two passes lift the haze and the finish matches, stop.
@@ -84,7 +82,7 @@ D and G Floors: mix baking soda with water to a thick paste, peanut-butter consi
 2. Spread it on the crust and into open pits only. Not a floor flood.
 3. Sit 5 to 10 minutes for a thin ring. For a deep pit stain, cover and let it dry, then lift. Do not scrub dry powder into honed.
 4. Wipe with a damp cloth. Plastic scraper on leftover paste.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+5. Rinse with distilled water. Dry now.
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this stone is an etch.
 
@@ -149,7 +147,7 @@ Usually mineral on top. OUTERclé: chalky white or cloudy patches sit on the sur
 
 **What cleaner is safe?**
 
-pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists travertine. The Amazon title names marble. This page is travertine. Same calcite family. Different pores. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists travertine. The Amazon title names marble. This page is travertine. Same calcite family. Different pores. Rinse with distilled water. Dry now.
 
 **Can I use baking soda?**
 

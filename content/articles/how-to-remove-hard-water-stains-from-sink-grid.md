@@ -7,8 +7,6 @@ excerpt: "The removable stainless grid is not the basin. Pull it. Vinegar soak. 
 products:
   - name: "CLR Calcium, Lime & Rust Remover, 80 oz"
     url: https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Iron Out Rust Stain Remover, 2-pack"
     url: https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20
 ---
@@ -82,7 +80,7 @@ Do not enclose mixed Iron Out powder in a spray bottle. Summit: mixed powder off
 
 Tap rinse puts calcium and magnesium back as spots when it evaporates.
 
-1. Final rinse with [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). No minerals in the rinse.
+1. Final rinse with Amazon Grocery Distilled Water, 1 gal. No minerals in the rinse.
 2. Towel-dry every wire. Crossings too.
 3. Dry the rubber feet. Snap them back on dry.
 4. Set the grid back in a dry basin.
@@ -123,7 +121,7 @@ White is calcium. Vinegar first, then [CLR](https://www.amazon.com/dp/B0C4G2BJKX
 
 **Why a distilled rinse?**
 
-Tap water still has calcium and magnesium. They dry back onto the wires. [Amazon Grocery Distilled Water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) has none. Towel-dry after.
+Tap water still has calcium and magnesium. They dry back onto the wires. Amazon Grocery Distilled Water has none. Towel-dry after.
 
 **Can I mix vinegar or CLR with bleach to get scale and germs?**
 

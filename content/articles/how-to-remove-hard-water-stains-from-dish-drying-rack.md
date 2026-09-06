@@ -7,8 +7,6 @@ excerpt: "The counter dish rack is not dishwasher tines. Vinegar 1:1 soak 20-30 
 products:
   - name: "CLR Calcium, Lime & Rust Remover, 80 oz"
     url: https://www.amazon.com/dp/B0C4G2BJKX?tag=hardwaterfi04-20
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Iron Out Rust Stain Remover, 2-pack"
     url: https://www.amazon.com/dp/B07N4KGV2Q?tag=hardwaterfi04-20
 ---
@@ -76,7 +74,7 @@ CLR is an acid-side rust remover. Washington State DOH: rust-removal products ar
 
 ## Distilled last rinse. Tap water puts the mineral back.
 
-Hard tap water is how the crust got on the tines. After vinegar (and after CLR, if you use it), rinse with [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Then towel the rack dry.
+Hard tap water is how the crust got on the tines. After vinegar (and after CLR, if you use it), rinse with Amazon Grocery Distilled Water, 1 gal. Then towel the rack dry.
 
 A tap rinse on very hard water can drop a fresh film on the same tines you just cleaned. Distilled has no calcium to redeposit. Then dry. Put it back wet and the spots come back the same day.
 

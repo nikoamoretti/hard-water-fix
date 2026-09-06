@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-granite-composite-sink
 date: "2026-09-02"
 targetQuery: "how to remove hard water stains from granite composite sink"
 excerpt: "Granite composite is crushed stone in resin, not a slab. Baking-soda paste first. Distilled rinse and dry. Vinegar only if that maker allows a short timed cloth. CLR hazes the binder."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 Granite composite is crushed stone in acrylic or polyester resin, not a granite slab. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Those minerals dry on the gel or topcoat as white haze, worst on dark bowls. Baking-soda paste first. Distilled rinse. Dry. Vinegar only if that maker allows a short timed cloth. CLR hazes the binder.
@@ -57,9 +55,9 @@ Repeat a fresh paste if a fingernail still catches chalk. Stop if the patch is s
 
 Tap rinse puts the same calcium and magnesium back on the resin. Distilled does not.
 
-Rinse the paste with [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). One gallon. Steam distilled, filtered, ozonated. Wipe until the basin does not feel chalky. Dry now. Kraus granite composite: rinse and wipe with a microfiber after every use so mineral deposits do not form. Ruvati: rinse thoroughly after cleaning, then dry to prevent hard water and residue build-up. Standing tap water is how the haze returns tonight.
+Rinse the paste with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Wipe until the basin does not feel chalky. Dry now. Kraus granite composite: rinse and wipe with a microfiber after every use so mineral deposits do not form. Ruvati: rinse thoroughly after cleaning, then dry to prevent hard water and residue build-up. Standing tap water is how the haze returns tonight.
 
-Daily going forward is a wipe, not another acid sit. Blanco US Silgranit care: wet the sink, dish soap on the soft side of a sponge, small circular motions, rinse, dry with a microfiber. Same [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) jug for the faucet zone. It is not a stone sealer. Composite does not take a granite impregnator.
+Daily going forward is a wipe, not another acid sit. Blanco US Silgranit care: wet the sink, dish soap on the soft side of a sponge, small circular motions, rinse, dry with a microfiber. Same Amazon Grocery Distilled Water, 1 gal jug for the faucet zone. It is not a stone sealer. Composite does not take a granite impregnator.
 
 Do not mix the daily wipe with bleach. Do not leave a wet sponge parked in the bowl overnight. Home Improvement Way: leaving a wet sponge encourages the white spots.
 

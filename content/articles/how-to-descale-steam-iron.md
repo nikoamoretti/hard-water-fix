@@ -4,9 +4,7 @@ slug: how-to-descale-steam-iron
 date: "2026-08-31"
 targetQuery: "how to descale steam iron"
 excerpt: "White crust in the steam holes is hard-water scale. Fill with distilled if your booklet allows it. Descale the way that sheet prints — often water-only, sometimes diluted vinegar, sometimes a vinegar ban."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gallon"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 White crust in the steam holes is calcium carbonate from hard tap water heated in the tank. USGS: hardness is dissolved calcium and magnesium. Heat them and they drop as scale that clogs vents and spatters chalk on the next shirt. Fill with distilled if *your* booklet allows it. Descale the way that sheet prints — often a water-only self-clean, sometimes diluted vinegar, sometimes an explicit vinegar ban. Read the manual before you pour. If you ran acid, flush with plain water or the next shirt smells like a pickle.
@@ -59,7 +57,7 @@ Steam an old cloth afterward. Vinegar on that sheet is what **not** to wipe the 
 2. Unplug. Hold horizontally over the sink. Hold self-clean until boiling water, steam, and impurities come out.
 3. Cool. Damp cloth on the soleplate. Empty. Store upright.
 
-If that booklet prefers distilled, fill the tank with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) for ordinary ironing and for this flush. Do not add a store descaler on a sheet that voids the warranty for decalcifiers.
+If that booklet prefers distilled, fill the tank with distilled water for ordinary ironing and for this flush. Do not add a store descaler on a sheet that voids the warranty for decalcifiers.
 
 ### 4. Oliso steam-burst flush (water)
 
@@ -73,7 +71,7 @@ Brand FAQ: no vinegar unless the Use & Care directs otherwise. Model **11559** d
 2. Steam-iron steps, **HIGH**, steam button about **4 minutes**. **Do not steam clothes** with vinegar in the tank.
 3. Cool. Empty. Rinse. **1/2 cup water**. Steam again.
 
-If your Hamilton Beach sheet does not print that block, do not borrow it. After any vinegar cycle, flush with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) if the booklet allows distilled — then steam an old cloth until it does not smell like pickle.
+If your Hamilton Beach sheet does not print that block, do not borrow it. After any vinegar cycle, flush with distilled water if the booklet allows distilled — then steam an old cloth until it does not smell like pickle.
 
 ## What not to do
 
@@ -86,7 +84,7 @@ If your Hamilton Beach sheet does not print that block, do not borrow it. After 
 
 ## If the vents clog again
 
-Hard water keeps depositing calcium carbonate. [Test the tap](/articles/how-to-test-water-hardness-at-home). Empty after each session. Where the booklet allows it, daily fill is [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) or that sheet’s 50/50 mix. Do not copy Breville espresso’s distilled ban onto Conair, or Conair’s “preferred” onto Oliso.
+Hard water keeps depositing calcium carbonate. [Test the tap](/articles/how-to-test-water-hardness-at-home). Empty after each session. Where the booklet allows it, daily fill is distilled water or that sheet’s 50/50 mix. Do not copy Breville espresso’s distilled ban onto Conair, or Conair’s “preferred” onto Oliso.
 
 ## FAQ
 

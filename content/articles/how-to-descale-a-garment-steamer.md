@@ -4,9 +4,7 @@ slug: how-to-descale-a-garment-steamer
 date: "2026-09-02"
 targetQuery: "how to descale a garment steamer"
 excerpt: "White flakes on a shirt are scale leaving the steamer nozzle, not detergent. Read the booklet first. Many Rowenta and Philips sheets forbid vinegar. Distilled fill going forward."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 White flakes on a shirt are scale leaving the steamer nozzle, not detergent. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Heat those minerals in a tank and they drop as limescale in the hose and the head. Philips US: if you skip descaling, the steamer can release impurities or stain the garment. Rowenta USA: chalky residue around the nozzle, weaker steam, sputtering droplets instead of mist.
@@ -113,13 +111,13 @@ That 12-hour sit is printed for IS9500. It is not permission to leave vinegar ov
 
 The next tank is how you stop the flakes. Rowenta USA: distilled or demineralized fill slows scale; empty leftover tap; never store with water in the tank.
 
-[Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) is the fill going forward **where that booklet allows distilled**. Some brands still want a mix. Say so:
+Amazon Grocery Distilled Water, 1 gal is the fill going forward **where that booklet allows distilled**. Some brands still want a mix. Say so:
 
 - Philips US water page and STH5030: tap is designed in; hard water → distilled/demineralized, or **50/50** tap + distilled.
 - Philips US stains, GC625 / GC626 / GC627 only: **50%** demineralized/distilled + **50%** tap. Empty after a session. First trigger on MAX, head away from the shirt, **10 seconds**, to spit the first droplets.
 - Rowenta IS8470D1 / DR8051U1: untreated tap. Very hard: **50/50** untreated tap + distilled. Not 100% bottled, filtered, or boiled water on that FAQ.
 - Rowenta GS4010: same 50/50 on very hard, **or** bottled spring water. Distilled or demineralized only as that sheet advises.
-- Conair GS28: cold water to fill. After a vinegar cycle, the rinse is fresh cold water. If you switch the daily fill to [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20), that is prevention, not a substitute for the printed 1/3 + 2/3 descale.
+- Conair GS28: cold water to fill. After a vinegar cycle, the rinse is fresh cold water. If you switch the daily fill to distilled water, that is prevention, not a substitute for the printed 1/3 + 2/3 descale.
 
 Do not copy an iron’s 100% distilled ban onto a steamer whose sheet prefers distilled. Do not copy Conair’s vinegar cup onto Philips.
 

@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-marble
 date: "2026-09-02"
 targetQuery: "how to remove hard water stains from marble"
 excerpt: "The white ring on marble is mineral on calcium carbonate. Distilled wipe first. Vinegar etches. Cleaning does not undo an etch."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 The white ring around the marble faucet is mineral sitting on calcium carbonate. It is not a stain in the stone. Tap water dries. Calcium and magnesium stay. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180.
@@ -40,7 +38,7 @@ Faint haze you can barely feel. Not raised crust.
 
 NSI: clean stone with a neutral cleaner, stone soap, or a mild liquid dishwashing detergent and warm water. Then rinse. Then dry.
 
-1. Damp a microfiber with a pH-neutral stone cleaner, or with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) if the film is light.
+1. Damp a microfiber with a pH-neutral stone cleaner, or with distilled water if the film is light.
 2. Wipe the faucet ring only.
 3. Rinse with distilled. Tap rinse puts the same calcium and magnesium back on the polish.
 4. Dry immediately with a second cloth.
@@ -57,7 +55,7 @@ Raised white crust a fingernail catches. Baking soda and water make a paste. Tha
 2. Spread it on the crust only.
 3. Sit 5 to 10 minutes for a thin ring. Do not let it dry hard.
 4. Wipe with a damp cloth. Do not scrub dry powder into the polish. NSI: scouring powders or creams may scratch certain stones.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+5. Rinse with distilled water. Dry now.
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra cleaning. The poultice is not that fizz. That mix myth already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains).
 
@@ -70,7 +68,7 @@ Use a plastic scraper. Not a razor. Not steel wool. Countertop Advisor: skip ste
 1. Spot-test a hidden edge of the same finish.
 2. Hold the scraper almost flat. Work the crust, not the stone.
 3. Lift only what stands up.
-4. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry immediately.
+4. Rinse with distilled water. Dry immediately.
 
 Stop the second you see new haze. New haze that stays smooth when wet is damage, not leftover scale.
 

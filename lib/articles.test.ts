@@ -149,25 +149,20 @@ test("clothes stain article may only use B07N4KGV2Q and B00CNJREKK as Amazon ASI
   assert.doesNotMatch(haystack, /B00JOLNSFA|B016TQJGDK|B000VCFAXO|YOURTAG|\{\{AFF_/);
 });
 
-test("steam iron descale article may only use B07VD4KN28 as an Amazon ASIN", () => {
+test("steam iron descale article is published without Amazon products", () => {
   const article = getArticle("how-to-descale-steam-iron");
   assert.ok(article, "expected how-to-descale-steam-iron to parse");
   assert.equal(article.slug, "how-to-descale-steam-iron");
   assert.equal(article.date, "2026-08-31");
-  assert.equal(article.products.length, 1);
-  assert.equal(article.products[0]?.name, "Amazon Grocery Distilled Water, 1 gallon");
-  assert.equal(
-    article.products[0]?.url,
-    "https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20",
-  );
+  assert.deepEqual(article.products, []);
 
   const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
   const amazonAsins = [
     ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
   ].map((match) => match[1].toUpperCase());
 
-  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
-  assert.deepEqual([...new Set(amazonAsins)], ["B07VD4KN28"]);
+  assert.deepEqual(amazonAsins, []);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
   assert.doesNotMatch(
     haystack,
     /XD9060E0|XD9070E0|ZR850001|YOURTAG|\{\{AFF_|B00EYFKKZC|B003PSJ7F8|B0GQ51XV9R/,
@@ -246,7 +241,7 @@ test("windows stain article may only use B0C4G2BJKX as an Amazon ASIN", () => {
 
   assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
   assert.deepEqual([...new Set(amazonAsins)], ["B0C4G2BJKX"]);
-  assert.doesNotMatch(haystack, /B07VD4KN28|B00009EFEX|B0D6X4PSZ3|YOURTAG|\{\{AFF_/);
+  assert.doesNotMatch(haystack, /B00009EFEX|B0D6X4PSZ3|YOURTAG|\{\{AFF_/);
 });
 
 test("shower tile article may only use B0C4G2BJKX as an Amazon ASIN", () => {
@@ -318,50 +313,40 @@ test("windshield spots article may only use B007460F7Q as an Amazon ASIN", () =>
 
   assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
   assert.deepEqual([...new Set(amazonAsins)], ["B007460F7Q"]);
-  assert.doesNotMatch(haystack, /B0D6X4PSZ3|B07VD4KN28|B01DXKZ7EM|YOURTAG|\{\{AFF_/);
+  assert.doesNotMatch(haystack, /B0D6X4PSZ3|B01DXKZ7EM|YOURTAG|\{\{AFF_/);
 });
 
-test("bathroom mirror article may only use B07VD4KN28 as an Amazon ASIN", () => {
+test("bathroom mirror article is published without Amazon products", () => {
   const article = getArticle("how-to-remove-hard-water-stains-from-bathroom-mirror");
   assert.ok(article, "expected how-to-remove-hard-water-stains-from-bathroom-mirror to parse");
   assert.equal(article.slug, "how-to-remove-hard-water-stains-from-bathroom-mirror");
   assert.equal(article.date, "2026-08-31");
-  assert.equal(article.products.length, 1);
-  assert.equal(article.products[0]?.name, "Amazon Grocery Distilled Water, 1 gal");
-  assert.equal(
-    article.products[0]?.url,
-    "https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20",
-  );
+  assert.deepEqual(article.products, []);
 
   const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
   const amazonAsins = [
     ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
   ].map((match) => match[1].toUpperCase());
 
-  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
-  assert.deepEqual([...new Set(amazonAsins)], ["B07VD4KN28"]);
+  assert.deepEqual(amazonAsins, []);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
   assert.doesNotMatch(haystack, /B0C4G2BJKX|B0D6X4PSZ3|B000WNED08|B007460F7Q|YOURTAG|\{\{AFF_/);
 });
 
-test("humidifier white dust article may only use B07VD4KN28 as an Amazon ASIN", () => {
+test("humidifier white dust article is published without Amazon products", () => {
   const article = getArticle("humidifier-white-dust-hard-water");
   assert.ok(article, "expected humidifier-white-dust-hard-water to parse");
   assert.equal(article.slug, "humidifier-white-dust-hard-water");
   assert.equal(article.date, "2026-08-31");
-  assert.equal(article.products.length, 1);
-  assert.equal(article.products[0]?.name, "Amazon Grocery Distilled Water, 1 gal");
-  assert.equal(
-    article.products[0]?.url,
-    "https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20",
-  );
+  assert.deepEqual(article.products, []);
 
   const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
   const amazonAsins = [
     ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
   ].map((match) => match[1].toUpperCase());
 
-  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
-  assert.deepEqual([...new Set(amazonAsins)], ["B07VD4KN28"]);
+  assert.deepEqual(amazonAsins, []);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
   assert.doesNotMatch(haystack, /YOURTAG|\{\{AFF_/);
 });
 
@@ -401,24 +386,19 @@ test("Mr. Coffee descale article may not contain any Amazon ASIN or amazon.com U
   assert.doesNotMatch(haystack, /amazon\.com|YOURTAG|\{\{AFF_/i);
 });
 
-test("coffee carafe stain article may only use B07VD4KN28 as an Amazon ASIN", () => {
+test("coffee carafe stain article is published without Amazon products", () => {
   const article = getArticle("how-to-remove-hard-water-stains-from-coffee-carafe");
   assert.ok(article, "expected how-to-remove-hard-water-stains-from-coffee-carafe to parse");
   assert.equal(article.slug, "how-to-remove-hard-water-stains-from-coffee-carafe");
   assert.equal(article.date, "2026-08-31");
-  assert.equal(article.products.length, 1);
-  assert.equal(article.products[0]?.name, "Amazon Grocery Distilled Water, 1 gal");
-  assert.equal(
-    article.products[0]?.url,
-    "https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20",
-  );
+  assert.deepEqual(article.products, []);
 
   const haystack = `${article.content}\n${JSON.stringify(article.products)}`;
   const amazonAsins = [
     ...haystack.matchAll(/amazon\.com\/(?:[\w%.-]+\/)*dp\/([A-Z0-9]{10})/gi),
   ].map((match) => match[1].toUpperCase());
 
-  assert.ok(amazonAsins.length > 0, "expected at least one Amazon ASIN");
-  assert.deepEqual([...new Set(amazonAsins)], ["B07VD4KN28"]);
+  assert.deepEqual(amazonAsins, []);
+  assert.doesNotMatch(article.content, /amazon\.com/i);
   assert.doesNotMatch(haystack, /YOURTAG|\{\{AFF_/);
 });

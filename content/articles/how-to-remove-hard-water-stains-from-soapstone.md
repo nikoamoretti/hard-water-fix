@@ -4,9 +4,7 @@ slug: how-to-remove-hard-water-stains-from-soapstone
 date: "2026-09-06"
 targetQuery: "how to remove hard water stains from soapstone"
 excerpt: "Soapstone is talc and magnesite. Dish soap, distilled rinse, dry. Baking-soda paste on raised crust. No vinegar. No CLR. No mineral-oil ASIN."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 Soapstone is talc and magnesite. Vinegar and CLR dull the oil and etch the magnesite. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Those minerals dry as white crust around the faucet and in the sink. Mild dish soap. Soft cloth. Distilled rinse. Dry immediately. Baking-soda paste on raised crust. Cleaning will not undo an etch.
@@ -49,7 +47,7 @@ Pantry dish soap. No Amazon link.
 
 1. Clear the faucet zone. Soft cloth. No steel wool. No metal scraper. Soapstone is talc. Wool scratches it.
 2. Warm water and a drop of mild dish soap. Wipe the haze in circles. Do not grind grit into the face.
-3. Rinse. Then a [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) pass. Tap rinse puts the same calcium and magnesium back on the stone.
+3. Rinse. Then a distilled water pass. Tap rinse puts the same calcium and magnesium back on the stone.
 4. Dry immediately with a second cloth. Lingering moisture leaves fresh deposits. Get the sink dry, not just the high spots.
 
 If two passes lift the haze and the color matches, stop.
@@ -72,7 +70,7 @@ Leftover film. Baking soda and water make a paste. Pantry. No Amazon link. That 
 2. Spread it on the crust only. Not a sink flood. Not the whole counter.
 3. Sit 5 to 10 minutes for a thin ring. Do not let it dry hard. Do not scrub dry powder into soapstone. NSI: scouring powders may scratch certain stones. This stone is the soft one.
 4. Wipe with a damp cloth. Plastic scraper on leftover paste.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+5. Rinse with distilled water. Dry now.
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on this soapstone is an etch.
 
@@ -141,7 +139,7 @@ Soft, soapy, gray to charcoal, often a sink or counter: this page. Speckled seal
 
 **What cleaner is safe?**
 
-Mild dish soap. Warm water. Soft cloth. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now. Pantry soap. No granite spray. No Miracle Daily SKU. No oil ASIN.
+Mild dish soap. Warm water. Soft cloth. Rinse with distilled water. Dry now. Pantry soap. No granite spray. No Miracle Daily SKU. No oil ASIN.
 
 **Can I use baking soda?**
 

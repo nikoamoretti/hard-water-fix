@@ -5,8 +5,6 @@ date: "2026-09-02"
 targetQuery: "how to remove hard water stains from pebble tile shower"
 excerpt: "River-rock shower floors are calcite. Distilled rinse and dry. Miracle Sealants Daily pH-neutral. Baking-soda paste mechanical. No vinegar. No CLR."
 products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz"
     url: https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20
 ---
@@ -61,7 +59,7 @@ Rust-Oleum’s Miracle Sealants Daily Cleaner page: pH balanced; won’t dull or
 1. Clear bottles. Soft cloth. Soft nylon brush. No steel wool. No metal scraper.
 2. Spray [Miracle Sealants Daily](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20) on the haze. Tucson: let it sit a few minutes.
 3. Wipe the pebble faces in circles. Soft brush in the grout valleys. Do not grind grit into honed stone.
-4. Rinse. Then a [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) pass. Tap rinse puts the same calcium and magnesium back in the joints.
+4. Rinse. Then a distilled water pass. Tap rinse puts the same calcium and magnesium back in the joints.
 5. Dry immediately with a second cloth. Tucson: lingering moisture leaves fresh deposits. Get the valleys dry, not just the high spots.
 
 If two passes lift the haze and the finish matches, stop.
@@ -84,7 +82,7 @@ D and G Floors: mix baking soda with water to a thick paste, peanut-butter consi
 2. Spread it on the crust and into grout valleys only. Not a floor flood.
 3. Sit 5 to 10 minutes for a thin ring. For a deep valley stain, cover and let it dry, then lift. Do not scrub dry powder into honed pebbles.
 4. Wipe with a damp cloth. Plastic scraper on leftover paste. Soft brush in the joints.
-5. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now. Get the valleys dry.
+5. Rinse with distilled water. Dry now. Get the valleys dry.
 
 Do not mix baking soda with vinegar to “boost” it. Acid plus bicarbonate is salt, water, and CO2. The fizz is gas, not extra descaling. That mix already lives on [baking soda vs vinegar](/articles/baking-soda-vs-vinegar-hard-water-stains). Vinegar on these pebbles is an etch. Amazon Grocery distilled water, one gallon, is the rinse class. Dry the floor or the crust returns tonight.
 
@@ -142,7 +140,7 @@ Each stone unique, a drop soaks in: this page. Uniform glassy “pebbles,” lef
 
 **What cleaner is safe?**
 
-pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists marble and travertine. The Amazon title names marble. This page is a pebble shower floor. Same calcite family. Different joints. Rinse with [distilled water](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). Dry now.
+pH-neutral stone cleaner. [Miracle Sealants Daily Cleaner for Granite, Quartz, Marble, Quartzite, Countertops pH Neutral, 24 oz](https://www.amazon.com/dp/B0DJWS5TDF?tag=hardwaterfi04-20): pH balanced; Use On lists marble and travertine. The Amazon title names marble. This page is a pebble shower floor. Same calcite family. Different joints. Rinse with distilled water. Dry now.
 
 **Can I use baking soda?**
 

@@ -5,8 +5,6 @@ date: "2026-09-02"
 targetQuery: "how to descale a cat water fountain"
 excerpt: "Unplug first. Vinegar 50/50 soak of the bowl, impeller, and faceplate. Distilled refill going forward. Never run vinegar through a live pump. Cats refuse a pickle bowl."
 products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
   - name: "PetSafe Drinkwell Replacement Carbon Filters, 12-pack"
     url: https://www.amazon.com/dp/B072C3F22W?tag=hardwaterfi04-20
 ---
@@ -57,9 +55,9 @@ Uahpet’s pump guide: unplug first. Lift the cover. Pull the impeller. Equal pa
 
 Tap refill paints the same calcium and magnesium back onto the impeller. Distilled does not.
 
-Refill going forward with [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). One gallon. Steam distilled, filtered, ozonated. TheTechInfluencer: use filtered or distilled water to slow future scale; distilled is the easiest way to prevent scale. That is prevention. It is not a sanitizer.
+Refill going forward with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. TheTechInfluencer: use filtered or distilled water to slow future scale; distilled is the easiest way to prevent scale. That is prevention. It is not a sanitizer.
 
-The same [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) jug is the cousin fill on [humidifier white dust](/articles/humidifier-white-dust-hard-water). That page is a misting tank. This is a pet bowl. Do not copy the humidifier empty-and-dry clock onto this fountain. Distilled here only stops mineral. Weekly soap still matters for slime.
+The same Amazon Grocery Distilled Water, 1 gal jug is the cousin fill on [humidifier white dust](/articles/humidifier-white-dust-hard-water). That page is a misting tank. This is a pet bowl. Do not copy the humidifier empty-and-dry clock onto this fountain. Distilled here only stops mineral. Weekly soap still matters for slime.
 
 ## The carbon filter is not a softener.
 

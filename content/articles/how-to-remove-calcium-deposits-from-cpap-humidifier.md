@@ -4,9 +4,7 @@ slug: how-to-remove-calcium-deposits-from-cpap-humidifier
 date: "2026-09-02"
 targetQuery: "how to remove calcium deposits from CPAP humidifier"
 excerpt: "White crust in a CPAP tub is mineral, not a dirty machine. Unplug. Remove the chamber. Vinegar soak at the dilution the maker prints. Distilled fill going forward. Not medical advice."
-products:
-  - name: "Amazon Grocery Distilled Water, 1 gal"
-    url: https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20
+products: []
 ---
 
 White crust in a CPAP humidifier chamber is mineral, not a dirty machine. USGS: hardness is dissolved calcium and magnesium. Hard at 121 mg/L as CaCO3. Very hard above 180. Heat those minerals overnight and they bake onto the tub as white or gray scale. The CPAP Shop: flaky white or gray buildup is calcium scale left when non-distilled water evaporates — not mold. This page is not medical advice. Quote the booklet in the box. Unplug. Take the chamber off the machine. Vinegar soak of that removed tub at the dilution the maker prints. Distilled fill going forward.
@@ -41,9 +39,9 @@ If the booklet says drinking-quality, that is that booklet. If the booklet or th
 
 The CPAP Shop: when non-distilled water evaporates, minerals bond to the heating plate and the chamber walls. Thick scale can interfere with the heater. It also takes up space, so the tub holds less and can run dry overnight. USGS: when hard water is heated, solid deposits of calcium carbonate can form. Same mineral. Smaller tub.
 
-Nightly fill is [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20). One gallon. Steam distilled, filtered, ozonated. Fill to the line on the removed chamber. Do not pour water into a tub still locked on the blower.
+Nightly fill is Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Fill to the line on the removed chamber. Do not pour water into a tub still locked on the blower.
 
-Same [Amazon Grocery Distilled Water, 1 gal](https://www.amazon.com/dp/B07VD4KN28?tag=hardwaterfi04-20) jug at bedtime. Fresh. Not yesterday's leftover. Distilled does not sanitize. The morning empty still happens.
+Same Amazon Grocery Distilled Water, 1 gal jug at bedtime. Fresh. Not yesterday's leftover. Distilled does not sanitize. The morning empty still happens.
 
 ## Vinegar soak of the removed chamber. Quote the mix. Do not average.
 
