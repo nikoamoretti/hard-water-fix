@@ -111,7 +111,7 @@ That 12-hour sit is printed for IS9500. It is not permission to leave vinegar ov
 
 The next tank is how you stop the flakes. Rowenta USA: distilled or demineralized fill slows scale; empty leftover tap; never store with water in the tank.
 
-Amazon Grocery Distilled Water, 1 gal is the fill going forward **where that booklet allows distilled**. Some brands still want a mix. Say so:
+Grocery distilled water (1 gal) is the fill going forward **where that booklet allows distilled**. Some brands still want a mix. Say so:
 
 - Philips US water page and STH5030: tap is designed in; hard water → distilled/demineralized, or **50/50** tap + distilled.
 - Philips US stains, GC625 / GC626 / GC627 only: **50%** demineralized/distilled + **50%** tap. Empty after a session. First trigger on MAX, head away from the shirt, **10 seconds**, to spit the first droplets.

@@ -46,7 +46,7 @@ The tray is where splash dries into the same white crust.
 
 Tap is how the crust got there. Distilled water has no calcium or magnesium to dry as a new ring. Wipe the paddle with a distilled-damp cloth after the wrap. Rinse the tray with distilled. Do not finish with a tap splash.
 
-A gallon is the class here: Amazon Grocery distilled water, 1 gal.
+A gallon is the class here: grocery distilled water (1 gal).
 
 ## CLR on exterior chrome or plastic only — after vinegar fails
 

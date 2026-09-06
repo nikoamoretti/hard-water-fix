@@ -27,7 +27,7 @@ Match the machine first. Then change the water. Do not rewrite the owner's clean
 
 2. [Test hardness](/articles/how-to-test-water-hardness-at-home) if you want a number. Moderately hard starts at 61 mg/L. Hard starts at 121. Very hard is above 180. The white film tracks that number. Soft tap can still dust an ultrasonic if dissolved solids remain. Distilled is still the fill.
 
-3. Dump yesterday's tap. Wipe the tank dry. Fill an ultrasonic or impeller with distilled water. EPA: distillation is the most effective way to remove minerals. Buy the jug labeled distilled, not purified-from-spring. One gallon of Amazon Grocery distilled water is the fill class here.
+3. Dump yesterday's tap. Wipe the tank dry. Fill an ultrasonic or impeller with distilled water. EPA: distillation is the most effective way to remove minerals. Buy the jug labeled distilled, not purified-from-spring. One gallon of grocery distilled water is the fill class here.
 
 4. If your ultrasonic takes a demineralization cartridge, use the part the booklet names. EPA: those cartridges vary, and white dust means minerals are still getting through. In hard-water country, distilled is often cheaper than chasing cartridges.
 

@@ -55,9 +55,9 @@ Uahpet’s pump guide: unplug first. Lift the cover. Pull the impeller. Equal pa
 
 Tap refill paints the same calcium and magnesium back onto the impeller. Distilled does not.
 
-Refill going forward with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. TheTechInfluencer: use filtered or distilled water to slow future scale; distilled is the easiest way to prevent scale. That is prevention. It is not a sanitizer.
+Refill going forward with grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. TheTechInfluencer: use filtered or distilled water to slow future scale; distilled is the easiest way to prevent scale. That is prevention. It is not a sanitizer.
 
-The same Amazon Grocery Distilled Water, 1 gal jug is the cousin fill on [humidifier white dust](/articles/humidifier-white-dust-hard-water). That page is a misting tank. This is a pet bowl. Do not copy the humidifier empty-and-dry clock onto this fountain. Distilled here only stops mineral. Weekly soap still matters for slime.
+The same grocery distilled jug is the cousin fill on [humidifier white dust](/articles/humidifier-white-dust-hard-water). That page is a misting tank. This is a pet bowl. Do not copy the humidifier empty-and-dry clock onto this fountain. Distilled here only stops mineral. Weekly soap still matters for slime.
 
 ## The carbon filter is not a softener.
 

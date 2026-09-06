@@ -64,7 +64,7 @@ Film versus crust already lives on [vinegar vs CLR](/articles/vinegar-vs-clr-for
 
 1. Ventilate. Gloves. Mix **equal parts** CLR with warm water. Spot-test a hidden patch of the *same finish*.
 2. Apply with a cloth on the leftover mineral film only. **No longer than 2 minutes.** Do not let it dry. Keep it off seams, caulk, and the wall joint.
-3. Rinse immediately with Amazon Grocery Distilled Water, 1 gal, then cold tap if you must, then distilled again. Dry now.
+3. Rinse immediately with grocery distilled water (1 gal), then cold tap if you must, then distilled again. Dry now.
 4. One fresh 2-minute pass if raised crust remains. Then stop.
 
 Do not paste Lime-A-Way. Do not paste Granite Gold Daily. Do not paste Miracle Sealants Daily. Those are other surfaces. Not this acrylic deck.
@@ -73,9 +73,9 @@ Do not paste Lime-A-Way. Do not paste Granite Gold Daily. Do not paste Miracle S
 
 Tap rinse puts the same calcium and magnesium back on the face. Distilled does not.
 
-Rinse CLR with Amazon Grocery Distilled Water, 1 gal. One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like the jug. Dry now. DuPont: a key to keeping the top looking good is to thoroughly rinse and wipe completely dry after cleaning. Design Morsels: if you have hard water, dry the counters completely after washing so spots do not set.
+Rinse CLR with grocery distilled water (1 gal). One gallon. Steam distilled, filtered, ozonated. Wipe until it does not smell like the jug. Dry now. DuPont: a key to keeping the top looking good is to thoroughly rinse and wipe completely dry after cleaning. Design Morsels: if you have hard water, dry the counters completely after washing so spots do not set.
 
-Daily going forward is a wipe, not another acid sit. DuPont: warm soapy water. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same Amazon Grocery Distilled Water, 1 gal jug. It is not a stone sealer. Corian does not take one.
+Daily going forward is a wipe, not another acid sit. DuPont: warm soapy water. Then a distilled damp wipe around the faucet so tap spots do not bake on. Same grocery distilled jug. It is not a stone sealer. Corian does not take one.
 
 Do not mix the daily wipe with bleach. Do not leave a wet cloth parked on the deck overnight. Do not soak the seams.
 
